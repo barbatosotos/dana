@@ -1,0 +1,5077 @@
+[
+ {
+   "Code": 8099,
+   "Type": "String",
+   "Name": "MEDICAL SERVICES AND HEALTH PRACTITIONERS (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 3640,
+   "Type": "String",
+   "Name": "Hyatt Hotels"
+ },
+ {
+   "Code": 2791,
+   "Type": "String",
+   "Name": "TYPESETTING, PLATE MAKING, & RELATED SERVICES"
+ },
+ {
+   "Code": 3638,
+   "Type": "String",
+   "Name": "HOWARD JOHNSON"
+ },
+ {
+   "Code": 3639,
+   "Type": "String",
+   "Name": "MOUNT CHARLOTTE THISTLE"
+ },
+ {
+   "Code": 3630,
+   "Type": "String",
+   "Name": "EXTENDED STAY DELUXE"
+ },
+ {
+   "Code": 3631,
+   "Type": "String",
+   "Name": "SLEEP INN"
+ },
+ {
+   "Code": 3632,
+   "Type": "String",
+   "Name": "THE PHOENICIAN"
+ },
+ {
+   "Code": 5811,
+   "Type": "String",
+   "Name": "CATERERS"
+ },
+ {
+   "Code": 4722,
+   "Type": "String",
+   "Name": "TRAVEL AGENCIES & TOUR OPERATORS"
+ },
+ {
+   "Code": 3633,
+   "Type": "String",
+   "Name": "RANK HOTELS"
+ },
+ {
+   "Code": 5812,
+   "Type": "String",
+   "Name": "EATING PLACES & RESTAURANTS"
+ },
+ {
+   "Code": 4723,
+   "Type": "String",
+   "Name": "PACKAGE TOUR OPERATORS - GERMANY ONLY"
+ },
+ {
+   "Code": 3634,
+   "Type": "String",
+   "Name": "SWISSOTEL"
+ },
+ {
+   "Code": 3635,
+   "Type": "String",
+   "Name": "RESO HOTELS"
+ },
+ {
+   "Code": 5813,
+   "Type": "String",
+   "Name": "DRINKING PLACES - BARS TAVERNS NIGHTCLUBS COCKTAIL LOUNGES & DISCOTHEQUES"
+ },
+ {
+   "Code": 5814,
+   "Type": "String",
+   "Name": "FAST FOOD RESTAURANTS"
+ },
+ {
+   "Code": 3636,
+   "Type": "String",
+   "Name": "SAROVA HOTELS"
+ },
+ {
+   "Code": 3637,
+   "Type": "String",
+   "Name": "RAMADA INNS"
+ },
+ {
+   "Code": 3650,
+   "Type": "String",
+   "Name": "RED ROOF INNS"
+ },
+ {
+   "Code": 3651,
+   "Type": "String",
+   "Name": "IMPERIAL LONDON HOTEL"
+ },
+ {
+   "Code": 3649,
+   "Type": "String",
+   "Name": "RADISSON HOTELS"
+ },
+ {
+   "Code": 3405,
+   "Type": "String",
+   "Name": "ENTERPRISE RENT-A-CAR"
+ },
+ {
+   "Code": 3400,
+   "Type": "String",
+   "Name": "AUTO HOST CAR RENTALS"
+ },
+ {
+   "Code": 3641,
+   "Type": "String",
+   "Name": "SOFITEL HOTELS"
+ },
+ {
+   "Code": 3642,
+   "Type": "String",
+   "Name": "NOVOTEL HOTELS"
+ },
+ {
+   "Code": 5821,
+   "Type": "String",
+   "Name": "OTHERS-NOT ELSEWHERE CLASSIFIED"
+ },
+ {
+   "Code": 3643,
+   "Type": "String",
+   "Name": "STEIGENBERGER HOTELS"
+ },
+ {
+   "Code": 3644,
+   "Type": "String",
+   "Name": "ECONO LODGES"
+ },
+ {
+   "Code": 3645,
+   "Type": "String",
+   "Name": "QUEENS MOAT HOUSES"
+ },
+ {
+   "Code": 3646,
+   "Type": "String",
+   "Name": "SWALLOW HOTELS"
+ },
+ {
+   "Code": 3409,
+   "Type": "String",
+   "Name": "GENERAL RENT-A-CAR"
+ },
+ {
+   "Code": 3647,
+   "Type": "String",
+   "Name": "HUSA HOTELS"
+ },
+ {
+   "Code": 3648,
+   "Type": "String",
+   "Name": "DE VERE HOTELS"
+ },
+ {
+   "Code": 3660,
+   "Type": "String",
+   "Name": "KNIGHTS INNS"
+ },
+ {
+   "Code": 3661,
+   "Type": "String",
+   "Name": "METROPOLE HOTELS"
+ },
+ {
+   "Code": 3662,
+   "Type": "String",
+   "Name": "CIRCUS CIRCUS HOTEL AND CASINO"
+ },
+ {
+   "Code": 3420,
+   "Type": "String",
+   "Name": "ANSA INTL RENT-A-CAR"
+ },
+ {
+   "Code": 3414,
+   "Type": "String",
+   "Name": "GODFREY NATL RENT-A-CAR"
+ },
+ {
+   "Code": 3412,
+   "Type": "String",
+   "Name": "A1 RENT-A-CAR"
+ },
+ {
+   "Code": 3411,
+   "Type": "String",
+   "Name": "ATLANTA RENT-A-CAR"
+ },
+ {
+   "Code": 3652,
+   "Type": "String",
+   "Name": "EMBASSY HOTELS"
+ },
+ {
+   "Code": 3653,
+   "Type": "String",
+   "Name": "PENTA HOTELS"
+ },
+ {
+   "Code": 3654,
+   "Type": "String",
+   "Name": "LOEWS HOTELS"
+ },
+ {
+   "Code": 3655,
+   "Type": "String",
+   "Name": "SCANDIC HOTELS"
+ },
+ {
+   "Code": 3656,
+   "Type": "String",
+   "Name": "SARA HOTELS"
+ },
+ {
+   "Code": 3657,
+   "Type": "String",
+   "Name": "OBEROI HOTELS"
+ },
+ {
+   "Code": 3658,
+   "Type": "String",
+   "Name": "NEW OTANI HOTELS"
+ },
+ {
+   "Code": 3419,
+   "Type": "String",
+   "Name": "ALPHA RENT-A-CAR"
+ },
+ {
+   "Code": 3659,
+   "Type": "String",
+   "Name": "TAJ HOTELS INTERNATIONAL"
+ },
+ {
+   "Code": 3670,
+   "Type": "String",
+   "Name": "ARCADE HOTELS"
+ },
+ {
+   "Code": 3671,
+   "Type": "String",
+   "Name": "ARCTIA HOTELS"
+ },
+ {
+   "Code": 4761,
+   "Type": "String",
+   "Name": "TELEMARKETING OF TRAVEL RELATED SERVICES AND V"
+ },
+ {
+   "Code": 3672,
+   "Type": "String",
+   "Name": "CAMPANILE HOTELS"
+ },
+ {
+   "Code": 3673,
+   "Type": "String",
+   "Name": "IBUSZ HOTELS"
+ },
+ {
+   "Code": 3431,
+   "Type": "String",
+   "Name": "REPLACEMENT RENT-A-CAR"
+ },
+ {
+   "Code": 3430,
+   "Type": "String",
+   "Name": "MAJOR RENT-A-CAR"
+ },
+ {
+   "Code": 3428,
+   "Type": "String",
+   "Name": "CAREY RENT-A-CAR"
+ },
+ {
+   "Code": 3427,
+   "Type": "String",
+   "Name": "AVON RENT-A-CAR"
+ },
+ {
+   "Code": 3425,
+   "Type": "String",
+   "Name": "AUTOMATE RENT-A-CAR"
+ },
+ {
+   "Code": 3423,
+   "Type": "String",
+   "Name": "AVCAR RENT-A-CAR"
+ },
+ {
+   "Code": 3421,
+   "Type": "String",
+   "Name": "ALLSTATE RENT-A-CAR"
+ },
+ {
+   "Code": 3663,
+   "Type": "String",
+   "Name": "HOTELES EL PRESIDENTE"
+ },
+ {
+   "Code": 4511,
+   "Type": "String",
+   "Name": "AIRLINES & AIR CARRIERS (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 3664,
+   "Type": "String",
+   "Name": "FLAG INN"
+ },
+ {
+   "Code": 3665,
+   "Type": "String",
+   "Name": "HAMPTON INNS"
+ },
+ {
+   "Code": 3666,
+   "Type": "String",
+   "Name": "STAKIS HOTELS"
+ },
+ {
+   "Code": 3667,
+   "Type": "String",
+   "Name": "LUXOR HOTEL AND CASINO"
+ },
+ {
+   "Code": 3668,
+   "Type": "String",
+   "Name": "MARITIM HOTELS"
+ },
+ {
+   "Code": 3669,
+   "Type": "String",
+   "Name": "ELDORADO HOTEL AND CASINO"
+ },
+ {
+   "Code": 3429,
+   "Type": "String",
+   "Name": "INSURANCE RENT-A-CAR"
+ },
+ {
+   "Code": 3680,
+   "Type": "String",
+   "Name": "HOTEIS OTHAN"
+ },
+ {
+   "Code": 3681,
+   "Type": "String",
+   "Name": "ADAMS MARK HOTELS"
+ },
+ {
+   "Code": 3682,
+   "Type": "String",
+   "Name": "SAHARA HOTEL AND CASINO"
+ },
+ {
+   "Code": 3683,
+   "Type": "String",
+   "Name": "BRADBURY SUITES"
+ },
+ {
+   "Code": 3684,
+   "Type": "String",
+   "Name": "BUDGET HOST INN"
+ },
+ {
+   "Code": 3200,
+   "Type": "String",
+   "Name": "Guyana Airways--GUYANA A"
+ },
+ {
+   "Code": 3441,
+   "Type": "String",
+   "Name": "ADVANTAGE RENT-A-CAR"
+ },
+ {
+   "Code": 3440,
+   "Type": "String",
+   "Name": "VIA ROUTE"
+ },
+ {
+   "Code": 3439,
+   "Type": "String",
+   "Name": "MILLEVILLE RENT-A-CAR"
+ },
+ {
+   "Code": 3438,
+   "Type": "String",
+   "Name": "INTERENT RENT-A-CAR"
+ },
+ {
+   "Code": 3437,
+   "Type": "String",
+   "Name": "CITE RENT-A-CAR"
+ },
+ {
+   "Code": 3436,
+   "Type": "String",
+   "Name": "AUTOHANSA RENT-A-CAR"
+ },
+ {
+   "Code": 3435,
+   "Type": "String",
+   "Name": "VALUE RENT-A-CAR"
+ },
+ {
+   "Code": 3434,
+   "Type": "String",
+   "Name": "USA RENT-A-CAR"
+ },
+ {
+   "Code": 3433,
+   "Type": "String",
+   "Name": "UGLY DUCKLING RENT-A-CAR"
+ },
+ {
+   "Code": 3432,
+   "Type": "String",
+   "Name": "RESERVE RENT-A-CAR"
+ },
+ {
+   "Code": 3674,
+   "Type": "String",
+   "Name": "RANTASIPI HOTELS"
+ },
+ {
+   "Code": 5611,
+   "Type": "String",
+   "Name": "MEN'S & BOY'S CLOTHING & ACCESSORIES STORES"
+ },
+ {
+   "Code": 3675,
+   "Type": "String",
+   "Name": "INTERHOTEL CEDOK"
+ },
+ {
+   "Code": 5612,
+   "Type": "String",
+   "Name": "WOMENS READY-TO-WEAR STORES"
+ },
+ {
+   "Code": 3676,
+   "Type": "String",
+   "Name": "MONTE CARLO HOTEL AND CASINO"
+ },
+ {
+   "Code": 3677,
+   "Type": "String",
+   "Name": "CLIMAT DE FRANCE HOTELS"
+ },
+ {
+   "Code": 3678,
+   "Type": "String",
+   "Name": "CUMULUS HOTELS"
+ },
+ {
+   "Code": 3679,
+   "Type": "String",
+   "Name": "SILVER LEGACY HOTEL AND CASINO"
+ },
+ {
+   "Code": 3690,
+   "Type": "String",
+   "Name": "COURTYARD BY MARRIOTT"
+ },
+ {
+   "Code": 3691,
+   "Type": "String",
+   "Name": "DILLON INNS"
+ },
+ {
+   "Code": 3692,
+   "Type": "String",
+   "Name": "DOUBLETREE HOTELS"
+ },
+ {
+   "Code": 3693,
+   "Type": "String",
+   "Name": "DRURY INNS"
+ },
+ {
+   "Code": 3694,
+   "Type": "String",
+   "Name": "ECONOMY INNS OF AMERICA"
+ },
+ {
+   "Code": 5631,
+   "Type": "String",
+   "Name": "WOMEN'S ACCESSORY & SPECIALTY SHOPS"
+ },
+ {
+   "Code": 4784,
+   "Type": "String",
+   "Name": "TOLL AND BRIDGE FEES"
+ },
+ {
+   "Code": 3695,
+   "Type": "String",
+   "Name": "EMBASSY SUITES"
+ },
+ {
+   "Code": 3211,
+   "Type": "String",
+   "Name": "Norwegian Air Shuttle--NORWEGIAN"
+ },
+ {
+   "Code": 3207,
+   "Type": "String",
+   "Name": "Empresa Ecuatoriana"
+ },
+ {
+   "Code": 3206,
+   "Type": "String",
+   "Name": "China Eastern Airlines--CHINAEAST"
+ },
+ {
+   "Code": 3204,
+   "Type": "String",
+   "Name": "Freedom Airlines--FREEDOM"
+ },
+ {
+   "Code": 3203,
+   "Type": "String",
+   "Name": "GOLDEN PACIFIC AIR"
+ },
+ {
+   "Code": 3685,
+   "Type": "String",
+   "Name": "BUDGETEL HOTELS"
+ },
+ {
+   "Code": 5621,
+   "Type": "String",
+   "Name": "WOMENS READY-TO-WEAR STORES"
+ },
+ {
+   "Code": 3686,
+   "Type": "String",
+   "Name": "SUSSE CHALET"
+ },
+ {
+   "Code": 3687,
+   "Type": "String",
+   "Name": "CLARION HOTELS"
+ },
+ {
+   "Code": 3688,
+   "Type": "String",
+   "Name": "COMPRI HOTELS"
+ },
+ {
+   "Code": 5641,
+   "Type": "String",
+   "Name": "CHILDREN'S AND INFANTS' WEAR"
+ },
+ {
+   "Code": 3222,
+   "Type": "String",
+   "Name": "Command Airways--COMMAND"
+ },
+ {
+   "Code": 3221,
+   "Type": "String",
+   "Name": "Transportes Aeros Militares Ecuatorianos--TAME AIR"
+ },
+ {
+   "Code": 3220,
+   "Type": "String",
+   "Name": "Compania Faucett--COMPANIA"
+ },
+ {
+   "Code": 3219,
+   "Type": "String",
+   "Name": "Compania Panamena de Aviacion (Copa)--COPA"
+ },
+ {
+   "Code": 3218,
+   "Type": "String",
+   "Name": "CROWN AIR"
+ },
+ {
+   "Code": 3217,
+   "Type": "String",
+   "Name": "CSA Ceskoslovenske Aerolinie--CSA"
+ },
+ {
+   "Code": 3216,
+   "Type": "String",
+   "Name": "CUMBERLAND AIRLINES"
+ },
+ {
+   "Code": 3215,
+   "Type": "String",
+   "Name": "DAN AIR SERVICES"
+ },
+ {
+   "Code": 3213,
+   "Type": "String",
+   "Name": "Malmo Aviation--MALMO AV"
+ },
+ {
+   "Code": 3212,
+   "Type": "String",
+   "Name": "Dominicana de Aviacion--DOMINICA"
+ },
+ {
+   "Code": 3696,
+   "Type": "String",
+   "Name": "EXEL INNS"
+ },
+ {
+   "Code": 3697,
+   "Type": "String",
+   "Name": "FAIRFIELD HOTELS"
+ },
+ {
+   "Code": 3698,
+   "Type": "String",
+   "Name": "HARLEY HOTELS"
+ },
+ {
+   "Code": 3699,
+   "Type": "String",
+   "Name": "MIDWAY MOTOR LODGE"
+ },
+ {
+   "Code": 4789,
+   "Type": "String",
+   "Name": "TRANSPORTATION SERVICES (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 5651,
+   "Type": "String",
+   "Name": "FAMILY CLOTHING STORES"
+ },
+ {
+   "Code": 5411,
+   "Type": "String",
+   "Name": "GROCERY STORES & SUPERMARKETS"
+ },
+ {
+   "Code": 3233,
+   "Type": "String",
+   "Name": "CAPITOL AIR"
+ },
+ {
+   "Code": 3231,
+   "Type": "String",
+   "Name": "SAHSA (Servicio Aero de Honduras)--SAHSA"
+ },
+ {
+   "Code": 3229,
+   "Type": "String",
+   "Name": "SAETA (Sociedad Ecuatorianas De Transportes Aereo)--SAETAAIR"
+ },
+ {
+   "Code": 7829,
+   "Type": "String",
+   "Name": "MOTION PICTURE & VIDEO TAPE PRODUCTION & DISTRIBUTION"
+ },
+ {
+   "Code": 3228,
+   "Type": "String",
+   "Name": "Cayman Airways--CAYMANAIR"
+ },
+ {
+   "Code": 3226,
+   "Type": "String",
+   "Name": "Skyways--SKYWAYS"
+ },
+ {
+   "Code": 3223,
+   "Type": "String",
+   "Name": "Comair--COMAIR"
+ },
+ {
+   "Code": 8911,
+   "Type": "String",
+   "Name": "ARCHITECTURAL, ENGINEERING, & SURVEYING SERVICES"
+ },
+ {
+   "Code": 5407,
+   "Type": "String",
+   "Name": "SECURITY CREDIT"
+ },
+ {
+   "Code": 5661,
+   "Type": "String",
+   "Name": "SHOE STORES"
+ },
+ {
+   "Code": 8931,
+   "Type": "String",
+   "Name": "ACCOUNTING, AUDITING, & BOOKKEEPING SERVICES"
+ },
+ {
+   "Code": 5422,
+   "Type": "String",
+   "Name": "FREEZER & LOCKER MEAT PROVISIONERS"
+ },
+ {
+   "Code": 7841,
+   "Type": "String",
+   "Name": "MOTION PICTURE & VIDEO TAPE PRODUCTION"
+ },
+ {
+   "Code": 3002,
+   "Type": "String",
+   "Name": "PAN AMERICAN"
+ },
+ {
+   "Code": 3243,
+   "Type": "String",
+   "Name": "Austrian Air Service--AUSTRAIR"
+ },
+ {
+   "Code": 3001,
+   "Type": "String",
+   "Name": "AMERICAN AIRLINES"
+ },
+ {
+   "Code": 3000,
+   "Type": "String",
+   "Name": "UNITED AIRLINES"
+ },
+ {
+   "Code": 3242,
+   "Type": "String",
+   "Name": "Avensa--AVENSA"
+ },
+ {
+   "Code": 3241,
+   "Type": "String",
+   "Name": "Aviateca (Guatemala)--AVIATECA"
+ },
+ {
+   "Code": 3240,
+   "Type": "String",
+   "Name": "Bahamasair--BAHAMASA"
+ },
+ {
+   "Code": 3239,
+   "Type": "String",
+   "Name": "Bar Harbor Airlines--BARHARBO"
+ },
+ {
+   "Code": 3238,
+   "Type": "String",
+   "Name": "BEMIDJI AIRLINES"
+ },
+ {
+   "Code": 3236,
+   "Type": "String",
+   "Name": "Air Arabia Airline--AIR ARAB"
+ },
+ {
+   "Code": 3235,
+   "Type": "String",
+   "Name": "BROCKWAY AIR"
+ },
+ {
+   "Code": 3234,
+   "Type": "String",
+   "Name": "Caribbean Airlines--CARIBBEAN"
+ },
+ {
+   "Code": 7833,
+   "Type": "String",
+   "Name": "EXPRESS PAYMENT SERVICE MERCHANTS--MOTION PICT"
+ },
+ {
+   "Code": 5655,
+   "Type": "String",
+   "Name": "SPORTS & RIDING APPAREL STORES"
+ },
+ {
+   "Code": 7832,
+   "Type": "String",
+   "Name": "MOTION PICTURE THEATERS"
+ },
+ {
+   "Code": 6760,
+   "Type": "String",
+   "Name": "SAVINGS BONDS"
+ },
+ {
+   "Code": 4582,
+   "Type": "String",
+   "Name": "AIRPORTS, FLYING FIELDS, & AIRPORT TERMINALS"
+ },
+ {
+   "Code": 3013,
+   "Type": "String",
+   "Name": "ALITALIA"
+ },
+ {
+   "Code": 3012,
+   "Type": "String",
+   "Name": "QANTAS"
+ },
+ {
+   "Code": 3254,
+   "Type": "String",
+   "Name": "US AIR SHUTTLE"
+ },
+ {
+   "Code": 3253,
+   "Type": "String",
+   "Name": "America West--AMERWEST"
+ },
+ {
+   "Code": 3011,
+   "Type": "String",
+   "Name": "AEROFLOT"
+ },
+ {
+   "Code": 3010,
+   "Type": "String",
+   "Name": "KLM (ROYAL DUTCH AIRLINES)"
+ },
+ {
+   "Code": 3252,
+   "Type": "String",
+   "Name": "ALM Antilean Airlines--ALM"
+ },
+ {
+   "Code": 3251,
+   "Type": "String",
+   "Name": "Aloha Airlines--ALOH AI"
+ },
+ {
+   "Code": 3009,
+   "Type": "String",
+   "Name": "AIR CANADA"
+ },
+ {
+   "Code": 3008,
+   "Type": "String",
+   "Name": "LUFTHANSA"
+ },
+ {
+   "Code": 3007,
+   "Type": "String",
+   "Name": "AIR FRANCE"
+ },
+ {
+   "Code": 3006,
+   "Type": "String",
+   "Name": "Japan Air Lines--JAL"
+ },
+ {
+   "Code": 3248,
+   "Type": "String",
+   "Name": "Tam Airlines--TAM"
+ },
+ {
+   "Code": 3247,
+   "Type": "String",
+   "Name": "Gol Airlines--GOL"
+ },
+ {
+   "Code": 3005,
+   "Type": "String",
+   "Name": "BRITISH AIRWAYS"
+ },
+ {
+   "Code": 3004,
+   "Type": "String",
+   "Name": "DRAGON AIRLINES"
+ },
+ {
+   "Code": 3246,
+   "Type": "String",
+   "Name": "Ryanair--RYANAIR"
+ },
+ {
+   "Code": 3245,
+   "Type": "String",
+   "Name": "EasyJet--EASYJET"
+ },
+ {
+   "Code": 3003,
+   "Type": "String",
+   "Name": "EUROFLY AIRLINES"
+ },
+ {
+   "Code": 6513,
+   "Type": "String",
+   "Name": "REAL ESTATE AGENTS, MANAGER & RENTAL"
+ },
+ {
+   "Code": 5681,
+   "Type": "String",
+   "Name": "FURRIERS & FUR SHOPS"
+ },
+ {
+   "Code": 5441,
+   "Type": "String",
+   "Name": "CANDY, NUT, & CONFECTIONERY STORES"
+ },
+ {
+   "Code": 6531,
+   "Type": "String",
+   "Name": "PAYMENT SERVICE PROVIDER"
+ },
+ {
+   "Code": 4111,
+   "Type": "String",
+   "Name": "LOCAL AND SUBURBAN COMMUTER PASSENGER TRANSPORTATION, INCLUDING FERRIES"
+ },
+ {
+   "Code": 5200,
+   "Type": "String",
+   "Name": "HOME SUPPLY WAREHOUSE STORES"
+ },
+ {
+   "Code": 6530,
+   "Type": "String",
+   "Name": "QUASI CASH - REMOTE STORED VALUE LOAD - MERCHANT"
+ },
+ {
+   "Code": 4112,
+   "Type": "String",
+   "Name": "PASSENGER RAILWAYS"
+ },
+ {
+   "Code": 6533,
+   "Type": "String",
+   "Name": "MERCHANT--PAYMENT SERVICE PROVIDER--PAYMENT TRANSACTION"
+ },
+ {
+   "Code": 7622,
+   "Type": "String",
+   "Name": "ELECTRONICS REPAIR SHOPS"
+ },
+ {
+   "Code": 6532,
+   "Type": "String",
+   "Name": "MEMBER FINANCIAL INSTITUTION--PAYMENT SERVICE PROVIDER--PAYMENT TRANSACTION"
+ },
+ {
+   "Code": 3266,
+   "Type": "String",
+   "Name": "Air Seychelles--AIR SEYC"
+ },
+ {
+   "Code": 3024,
+   "Type": "String",
+   "Name": "PAKISTAN INTERNATIONAL"
+ },
+ {
+   "Code": 3023,
+   "Type": "String",
+   "Name": "MEXICANA"
+ },
+ {
+   "Code": 3022,
+   "Type": "String",
+   "Name": "Philippine Airlines--PAL AIR"
+ },
+ {
+   "Code": 3021,
+   "Type": "String",
+   "Name": "Air Algerie--AIRALGER"
+ },
+ {
+   "Code": 3263,
+   "Type": "String",
+   "Name": "Aero Servicio Carabobo--ASERCA"
+ },
+ {
+   "Code": 3020,
+   "Type": "String",
+   "Name": "AIR-INDIA"
+ },
+ {
+   "Code": 3262,
+   "Type": "String",
+   "Name": "RENO AIR, INC."
+ },
+ {
+   "Code": 3261,
+   "Type": "String",
+   "Name": "Air China--AIR CHINA"
+ },
+ {
+   "Code": 3260,
+   "Type": "String",
+   "Name": "Spirit Airlines--SPIRIT"
+ },
+ {
+   "Code": 3019,
+   "Type": "String",
+   "Name": "Germanwings--GRMNWGAIR"
+ },
+ {
+   "Code": 3018,
+   "Type": "String",
+   "Name": "VARIG (BRAZIL)"
+ },
+ {
+   "Code": 3017,
+   "Type": "String",
+   "Name": "South African Airways--SAFRICAN"
+ },
+ {
+   "Code": 3259,
+   "Type": "String",
+   "Name": "American Trans Air--ATA AIR"
+ },
+ {
+   "Code": 3016,
+   "Type": "String",
+   "Name": "Scandinavian Airline System (SAS)--SAS"
+ },
+ {
+   "Code": 3015,
+   "Type": "String",
+   "Name": "Swiss International Air Lines--SWISS AIR"
+ },
+ {
+   "Code": 3014,
+   "Type": "String",
+   "Name": "SAUDI ARABIAN AIRLINES"
+ },
+ {
+   "Code": 3256,
+   "Type": "String",
+   "Name": "Alaska Airlines Inc.--ALASKA A"
+ },
+ {
+   "Code": 6529,
+   "Type": "String",
+   "Name": "QUASI CASH - REMOTE STORED VALUE LOAD - FINANCIAL INSTITUTE"
+ },
+ {
+   "Code": 5691,
+   "Type": "String",
+   "Name": "MENS & BOYS CLOTHING & ACCESSORIES STORES"
+ },
+ {
+   "Code": 5451,
+   "Type": "String",
+   "Name": "DAIRY PRODUCTS STORES"
+ },
+ {
+   "Code": 4121,
+   "Type": "String",
+   "Name": "TAXICABS & LIMOUSINES"
+ },
+ {
+   "Code": 6300,
+   "Type": "String",
+   "Name": "INSURANCE SALES UNDERWRITING & PREMIUMS"
+ },
+ {
+   "Code": 7631,
+   "Type": "String",
+   "Name": "WATCH, CLOCK & JEWELRY REPAIR"
+ },
+ {
+   "Code": 5211,
+   "Type": "String",
+   "Name": "LUMBER & BUILDING MATERIALS STORES"
+ },
+ {
+   "Code": 5697,
+   "Type": "String",
+   "Name": "TAILORS SEAMSTRESSES MENDING & ALTERATIONS"
+ },
+ {
+   "Code": 3277,
+   "Type": "String",
+   "Name": "Air Madagascar"
+ },
+ {
+   "Code": 3035,
+   "Type": "String",
+   "Name": "TAP (PORTUGAL)"
+ },
+ {
+   "Code": 3034,
+   "Type": "String",
+   "Name": "etihad airways - etihadair"
+ },
+ {
+   "Code": 3276,
+   "Type": "String",
+   "Name": "Air Midwest"
+ },
+ {
+   "Code": 3275,
+   "Type": "String",
+   "Name": "Air Nevada"
+ },
+ {
+   "Code": 3033,
+   "Type": "String",
+   "Name": "Ansett Airlines--ANSETT"
+ },
+ {
+   "Code": 3032,
+   "Type": "String",
+   "Name": "EL AL"
+ },
+ {
+   "Code": 3031,
+   "Type": "String",
+   "Name": "Olympic Airways--OLYMPICA"
+ },
+ {
+   "Code": 3030,
+   "Type": "String",
+   "Name": "Aerolineas Argentinas--AERO ARG"
+ },
+ {
+   "Code": 3029,
+   "Type": "String",
+   "Name": "SN Brussels Airlines--SNBRU AIR"
+ },
+ {
+   "Code": 3028,
+   "Type": "String",
+   "Name": "Air Malta--AIRMALTA"
+ },
+ {
+   "Code": 3027,
+   "Type": "String",
+   "Name": "Union de Transports Aeriens--UTAAIR"
+ },
+ {
+   "Code": 3268,
+   "Type": "String",
+   "Name": "Air Pacific"
+ },
+ {
+   "Code": 3026,
+   "Type": "String",
+   "Name": "Emirates Airlines--EMIRATES"
+ },
+ {
+   "Code": 3267,
+   "Type": "String",
+   "Name": "Air Panama International--AIR PANA"
+ },
+ {
+   "Code": 3025,
+   "Type": "String",
+   "Name": "Air New Zealand Limited International--AIR NZ"
+ },
+ {
+   "Code": 6535,
+   "Type": "String",
+   "Name": "VALUE PURCHASE--MEMBER FINANCIAL INSTITUTION"
+ },
+ {
+   "Code": 6534,
+   "Type": "String",
+   "Name": "QUASI CASH - MONEY TRANSFER - MEMBER FINANCIAL INSTITUTION"
+ },
+ {
+   "Code": 7623,
+   "Type": "String",
+   "Name": "AIR CONDITIONING & REFRIGERATION REPAIR SHOPS"
+ },
+ {
+   "Code": 4119,
+   "Type": "String",
+   "Name": "AMBULANCE SERVICES"
+ },
+ {
+   "Code": 7629,
+   "Type": "String",
+   "Name": "ELECTRICAL & SMALL APPLIANCE REPAIR SHOPS"
+ },
+ {
+   "Code": 3280,
+   "Type": "String",
+   "Name": "Air Jamaica--AIR JAMA"
+ },
+ {
+   "Code": 4131,
+   "Type": "String",
+   "Name": "BUS LINES, INCLUDING CHARTERS, TOUR BUSES # TOUR BUSES"
+ },
+ {
+   "Code": 5462,
+   "Type": "String",
+   "Name": "BAKERIES"
+ },
+ {
+   "Code": 7641,
+   "Type": "String",
+   "Name": "FURNITURE - REUPHOLSTERY, REPAIR, & REFINISHING"
+ },
+ {
+   "Code": 3046,
+   "Type": "String",
+   "Name": "Cruzerio do Sul (Brazil)--CRUZERIO"
+ },
+ {
+   "Code": 3045,
+   "Type": "String",
+   "Name": "Nigeria Airways--NIGERIA"
+ },
+ {
+   "Code": 3287,
+   "Type": "String",
+   "Name": "Aero Coach Aviation--AEROCOAC"
+ },
+ {
+   "Code": 3286,
+   "Type": "String",
+   "Name": "Aero Nicaraguenses--AERO NIC"
+ },
+ {
+   "Code": 3285,
+   "Type": "String",
+   "Name": "Aero Peru--AEROPERU"
+ },
+ {
+   "Code": 3284,
+   "Type": "String",
+   "Name": "AERO VIRGIN ISLANDS"
+ },
+ {
+   "Code": 3282,
+   "Type": "String",
+   "Name": "Air Djibouti--AIR DJIB"
+ },
+ {
+   "Code": 3037,
+   "Type": "String",
+   "Name": "Airlines"
+ },
+ {
+   "Code": 3279,
+   "Type": "String",
+   "Name": "Air LA"
+ },
+ {
+   "Code": 3036,
+   "Type": "String",
+   "Name": "VASP (BRAZIL)"
+ },
+ {
+   "Code": 5698,
+   "Type": "String",
+   "Name": "WIG AND TOUPEE STORES"
+ },
+ {
+   "Code": 5699,
+   "Type": "String",
+   "Name": "MISCELLANEOUS APPAREL & ACCESSORY"
+ },
+ {
+   "Code": 3291,
+   "Type": "String",
+   "Name": "Ariana Afghan"
+ },
+ {
+   "Code": 5231,
+   "Type": "String",
+   "Name": "GLASS, PAINT, & WALLPAPER STORES"
+ },
+ {
+   "Code": 3057,
+   "Type": "String",
+   "Name": "VIRGIN AMERICA"
+ },
+ {
+   "Code": 3299,
+   "Type": "String",
+   "Name": "WIDEROES FLYVESELSKAP--WIDEROES"
+ },
+ {
+   "Code": 3056,
+   "Type": "String",
+   "Name": "JET AIRWAYS"
+ },
+ {
+   "Code": 3298,
+   "Type": "String",
+   "Name": "AIR MAURITIUS--AIRMAURI"
+ },
+ {
+   "Code": 3055,
+   "Type": "String",
+   "Name": "LAB (BOLIVIA)"
+ },
+ {
+   "Code": 3297,
+   "Type": "String",
+   "Name": "Tarom Romanian Air Transport--TAROM AIR"
+ },
+ {
+   "Code": 3054,
+   "Type": "String",
+   "Name": "LADECO (Chile)--LADECO"
+ },
+ {
+   "Code": 3296,
+   "Type": "String",
+   "Name": "Air Berlin--AIRBERLIN"
+ },
+ {
+   "Code": 3053,
+   "Type": "String",
+   "Name": "AVIACO (Spain)--AVIACO"
+ },
+ {
+   "Code": 3295,
+   "Type": "String",
+   "Name": "Kenya Airways--KENYAAIR"
+ },
+ {
+   "Code": 3052,
+   "Type": "String",
+   "Name": "LAN Airlines--LAN AIR"
+ },
+ {
+   "Code": 3294,
+   "Type": "String",
+   "Name": "Ethiopian Airlines--ETHIOPIA"
+ },
+ {
+   "Code": 3051,
+   "Type": "String",
+   "Name": "Austrian Airlines--AUSTRIAN"
+ },
+ {
+   "Code": 3293,
+   "Type": "String",
+   "Name": "Ecuatoriana--ECUATORI"
+ },
+ {
+   "Code": 3050,
+   "Type": "String",
+   "Name": "Icelandair--ICELANDA"
+ },
+ {
+   "Code": 3292,
+   "Type": "String",
+   "Name": "Cyprus Airways--CYPRUSA"
+ },
+ {
+   "Code": 3049,
+   "Type": "String",
+   "Name": "Tunis Air--TUNIS AI"
+ },
+ {
+   "Code": 3048,
+   "Type": "String",
+   "Name": "Royal Air Maroc--AIRMARO"
+ },
+ {
+   "Code": 3047,
+   "Type": "String",
+   "Name": "THY (Turkey)--THY"
+ },
+ {
+   "Code": 8734,
+   "Type": "String",
+   "Name": "TESTING LABORATORIES (NON-MEDICAL TESTING)"
+ },
+ {
+   "Code": 3060,
+   "Type": "String",
+   "Name": "Northwest Airlines--NWA AIR"
+ },
+ {
+   "Code": 3068,
+   "Type": "String",
+   "Name": "Air Astana--AIRSTANA"
+ },
+ {
+   "Code": 3067,
+   "Type": "String",
+   "Name": "Vanguard Airlines--VANGUARD"
+ },
+ {
+   "Code": 3066,
+   "Type": "String",
+   "Name": "Southwest Airlines--SOUTHWES"
+ },
+ {
+   "Code": 3065,
+   "Type": "String",
+   "Name": "Air Inter--AIRINTER"
+ },
+ {
+   "Code": 3064,
+   "Type": "String",
+   "Name": "Adria Airways--ADRIA AIR"
+ },
+ {
+   "Code": 3063,
+   "Type": "String",
+   "Name": "U.S. Airways--USAIRWYS"
+ },
+ {
+   "Code": 3062,
+   "Type": "String",
+   "Name": "Hapag-Lloyd Express--HLX"
+ },
+ {
+   "Code": 3061,
+   "Type": "String",
+   "Name": "Continental--CONTINEN"
+ },
+ {
+   "Code": 3059,
+   "Type": "String",
+   "Name": "DBA Airlines--DBA AIR"
+ },
+ {
+   "Code": 3058,
+   "Type": "String",
+   "Name": "DELTA"
+ },
+ {
+   "Code": 3071,
+   "Type": "String",
+   "Name": "Air British Columbia--AIR B R C"
+ },
+ {
+   "Code": 3070,
+   "Type": "String",
+   "Name": "Pacific Southwest Airlines (PSA)"
+ },
+ {
+   "Code": 5251,
+   "Type": "String",
+   "Name": "HARDWARE STORES"
+ },
+ {
+   "Code": 5013,
+   "Type": "String",
+   "Name": "MOTOR VEHICLE SUPPPLIES & NEW PARTS"
+ },
+ {
+   "Code": 5499,
+   "Type": "String",
+   "Name": "MISCELLANEOUS FOOD STORES-CONVENIENCE STORES & SPECIALTY MARKETS"
+ },
+ {
+   "Code": 3079,
+   "Type": "String",
+   "Name": "Jetstar Airways--JETSTAR"
+ },
+ {
+   "Code": 3078,
+   "Type": "String",
+   "Name": "China Airlines--CHINAAIR"
+ },
+ {
+   "Code": 3077,
+   "Type": "String",
+   "Name": "Thai Airways--THAIAIRW"
+ },
+ {
+   "Code": 3076,
+   "Type": "String",
+   "Name": "Aeromexico--AEROMEXI"
+ },
+ {
+   "Code": 3075,
+   "Type": "String",
+   "Name": "Singapore Airlines--SINGAPOR"
+ },
+ {
+   "Code": 3073,
+   "Type": "String",
+   "Name": "Air Cal"
+ },
+ {
+   "Code": 3072,
+   "Type": "String",
+   "Name": "Cebu Pacific--CEBU PAC"
+ },
+ {
+   "Code": 3069,
+   "Type": "String",
+   "Name": "SUN COUNTRY AIRLINES"
+ },
+ {
+   "Code": 8999,
+   "Type": "String",
+   "Name": "PROFESSIONAL SEVICES (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 3082,
+   "Type": "String",
+   "Name": "Korean Airlines--KOREAN"
+ },
+ {
+   "Code": 5261,
+   "Type": "String",
+   "Name": "NURSERIES & LAWN & GARDEN SUPPLY STORES"
+ },
+ {
+   "Code": 3081,
+   "Type": "String",
+   "Name": "NORDAIR"
+ },
+ {
+   "Code": 5021,
+   "Type": "String",
+   "Name": "OFFICE & COMMERCIAL FURNITURE"
+ },
+ {
+   "Code": 3089,
+   "Type": "String",
+   "Name": "Transaero--TRANSAERO"
+ },
+ {
+   "Code": 3088,
+   "Type": "String",
+   "Name": "Croatia Air--CROATIA"
+ },
+ {
+   "Code": 3087,
+   "Type": "String",
+   "Name": "Metro Airlines--METROAI"
+ },
+ {
+   "Code": 3086,
+   "Type": "String",
+   "Name": "CARNIVAL AIRLINES"
+ },
+ {
+   "Code": 3085,
+   "Type": "String",
+   "Name": "Midwest Express Airlines--MIDWEST"
+ },
+ {
+   "Code": 3084,
+   "Type": "String",
+   "Name": "Eva Airways--EVA AIR"
+ },
+ {
+   "Code": 3083,
+   "Type": "String",
+   "Name": "Air Afrique--AIR AFRIQ"
+ },
+ {
+   "Code": 3092,
+   "Type": "String",
+   "Name": "MIDWAY AIRLINE"
+ },
+ {
+   "Code": 7692,
+   "Type": "String",
+   "Name": "WELDING SERVICES"
+ },
+ {
+   "Code": 7211,
+   "Type": "String",
+   "Name": "LAUNDRIES - FAMILY & COMMERCIAL"
+ },
+ {
+   "Code": 3090,
+   "Type": "String",
+   "Name": "Uni Airways--UNIAIR"
+ },
+ {
+   "Code": 7210,
+   "Type": "String",
+   "Name": "LAUNDRY, CLEANING, & GARMENT SERVICES"
+ },
+ {
+   "Code": 7699,
+   "Type": "String",
+   "Name": "MISCELLANEOUS REPAIR SHOPS & RELATED SERVICES"
+ },
+ {
+   "Code": 3099,
+   "Type": "String",
+   "Name": "Cathay Pacific--CATHAYPA"
+ },
+ {
+   "Code": 3098,
+   "Type": "String",
+   "Name": "Asiana Airlines--ASIANA"
+ },
+ {
+   "Code": 3097,
+   "Type": "String",
+   "Name": "Spanair--SPANAIR"
+ },
+ {
+   "Code": 3096,
+   "Type": "String",
+   "Name": "Air Zimbabwe--AIRZIMBA"
+ },
+ {
+   "Code": 3095,
+   "Type": "String",
+   "Name": "WARDAIR"
+ },
+ {
+   "Code": 3094,
+   "Type": "String",
+   "Name": "Zambia Airways--ZAMBIA A"
+ },
+ {
+   "Code": 5271,
+   "Type": "String",
+   "Name": "MOBILE HOME DEALERS"
+ },
+ {
+   "Code": 5044,
+   "Type": "String",
+   "Name": "PHOTOGRAPHIC PHOTOCOPY MICROFILM EQUIPMENT & SUPPLIES"
+ },
+ {
+   "Code": 7221,
+   "Type": "String",
+   "Name": "PHOTOGRAPHIC STUDIOS-PORTRAITS"
+ },
+ {
+   "Code": 5045,
+   "Type": "String",
+   "Name": "COMPUTERS & COMPUTER PERIPHERAL EQUIPMENT & SERVICES"
+ },
+ {
+   "Code": 5046,
+   "Type": "String",
+   "Name": "COMMERCIAL EQUIPMENT (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 5047,
+   "Type": "String",
+   "Name": "MEDICAL DENTAL OPHTHALMIC & HOSPITAL EQUIPMENT & SUPPLIES"
+ },
+ {
+   "Code": 9401,
+   "Type": "String",
+   "Name": "I-PURCHASING"
+ },
+ {
+   "Code": 9402,
+   "Type": "String",
+   "Name": "POSTAL SERVICES - GOVERNMENT ONLY"
+ },
+ {
+   "Code": 7217,
+   "Type": "String",
+   "Name": "CARPET AND UPHOLSTERY CLEANING"
+ },
+ {
+   "Code": 5039,
+   "Type": "String",
+   "Name": "CONSTRUCTION MATERIALS (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 7216,
+   "Type": "String",
+   "Name": "DRY CLEANERS"
+ },
+ {
+   "Code": 7230,
+   "Type": "String",
+   "Name": "BEAUTY & BARBER SHOPS"
+ },
+ {
+   "Code": 9411,
+   "Type": "String",
+   "Name": "GOVERNMENT LOAN PAYMENTS"
+ },
+ {
+   "Code": 5051,
+   "Type": "String",
+   "Name": "METAL SERVICE CENTERS & OFFICES"
+ },
+ {
+   "Code": 6381,
+   "Type": "String",
+   "Name": "INSURANCE PREMIUMS"
+ },
+ {
+   "Code": 9405,
+   "Type": "String",
+   "Name": "U.S. FEDERAL GOVERNMENT AGENCIES OR DEPARTMENTS"
+ },
+ {
+   "Code": 5065,
+   "Type": "String",
+   "Name": "ELECTRICAL PARTS AND EQUIPMENT"
+ },
+ {
+   "Code": 6399,
+   "Type": "String",
+   "Name": "INSURANCE NOT ELSEWHERE CLASSIFIED"
+ },
+ {
+   "Code": 5074,
+   "Type": "String",
+   "Name": "PLUMBING AND HEATING EQUIPMENT & SUPPLIES"
+ },
+ {
+   "Code": 7011,
+   "Type": "String",
+   "Name": "LODGING - HOTELS MOTELS RESORTS & CENTRAL RESERVATION SERVICES (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 7012,
+   "Type": "String",
+   "Name": "TIMESHARES"
+ },
+ {
+   "Code": 5072,
+   "Type": "String",
+   "Name": "HARDWARE, EQUIPMNT AND SUPPLIES"
+ },
+ {
+   "Code": 7251,
+   "Type": "String",
+   "Name": "SHOE REPAIR SHOPS SHOE SHINE PARLORS & HAT CLEANING SHOPS"
+ },
+ {
+   "Code": 5085,
+   "Type": "String",
+   "Name": "INDUSTRIAL SUPPLIES (NOT ELSEWHERE CLSSIFIED)"
+ },
+ {
+   "Code": 8111,
+   "Type": "String",
+   "Name": "LEGAL SERVICES & ATTORNEYS"
+ },
+ {
+   "Code": 8351,
+   "Type": "String",
+   "Name": "CHILD CARE SERVICES"
+ },
+ {
+   "Code": 7261,
+   "Type": "String",
+   "Name": "FUNERAL SERVICE & CREMATORIES"
+ },
+ {
+   "Code": 1711,
+   "Type": "String",
+   "Name": "HEATING, PLUMBING, & AIR CONDITIONING CONTRACTORS"
+ },
+ {
+   "Code": 7033,
+   "Type": "String",
+   "Name": "TRAILER PARKS & CAMP SITES"
+ },
+ {
+   "Code": 7032,
+   "Type": "String",
+   "Name": "SPORTING & RECREATIONAL CAMPS"
+ },
+ {
+   "Code": 7277,
+   "Type": "String",
+   "Name": "COUNSELING SERVICE"
+ },
+ {
+   "Code": 5099,
+   "Type": "String",
+   "Name": "DURABLE GOODS (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 7276,
+   "Type": "String",
+   "Name": "TAX PREPARATION SERVICE"
+ },
+ {
+   "Code": 9211,
+   "Type": "String",
+   "Name": "COURT COSTS, INCLUDING ALIMONY & CHILD SUPPORT"
+ },
+ {
+   "Code": 7278,
+   "Type": "String",
+   "Name": "BUYING & SHOPPING SERVICES AND CLUBS"
+ },
+ {
+   "Code": 5094,
+   "Type": "String",
+   "Name": "PRECIOUS STONES, METALS, WATCHES, & JEWELRY"
+ },
+ {
+   "Code": 7273,
+   "Type": "String",
+   "Name": "DATING AND ESCORT SERVICES"
+ },
+ {
+   "Code": 90044,
+   "Type": "String",
+   "Name": "Retail122"
+ },
+ {
+   "Code": 9223,
+   "Type": "String",
+   "Name": "BAIL AND BOND PAYMENTS"
+ },
+ {
+   "Code": 90043,
+   "Type": "String",
+   "Name": "Retail121"
+ },
+ {
+   "Code": 90046,
+   "Type": "String",
+   "Name": "Retail124"
+ },
+ {
+   "Code": 90045,
+   "Type": "String",
+   "Name": "Retail123"
+ },
+ {
+   "Code": 9222,
+   "Type": "String",
+   "Name": "FINES"
+ },
+ {
+   "Code": 90048,
+   "Type": "String",
+   "Name": "Retail126"
+ },
+ {
+   "Code": 90047,
+   "Type": "String",
+   "Name": "Retail125"
+ },
+ {
+   "Code": 90049,
+   "Type": "String",
+   "Name": "Retail127"
+ },
+ {
+   "Code": 90040,
+   "Type": "String",
+   "Name": "Retail118"
+ },
+ {
+   "Code": 90042,
+   "Type": "String",
+   "Name": "Retail120"
+ },
+ {
+   "Code": 90041,
+   "Type": "String",
+   "Name": "Retail119"
+ },
+ {
+   "Code": 1731,
+   "Type": "String",
+   "Name": "ELECTRICAL CONTRACTORS"
+ },
+ {
+   "Code": 7297,
+   "Type": "String",
+   "Name": "MASSAGE PARLORS"
+ },
+ {
+   "Code": 90033,
+   "Type": "String",
+   "Name": "Retail111"
+ },
+ {
+   "Code": 7296,
+   "Type": "String",
+   "Name": "CLOTHING RENTAL"
+ },
+ {
+   "Code": 90032,
+   "Type": "String",
+   "Name": "Retail110"
+ },
+ {
+   "Code": 7299,
+   "Type": "String",
+   "Name": "MISCELLANEOUS PERSONAL SERVICES (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 90035,
+   "Type": "String",
+   "Name": "Retail113"
+ },
+ {
+   "Code": 7298,
+   "Type": "String",
+   "Name": "HEALTH & BEAUTY SPA"
+ },
+ {
+   "Code": 90034,
+   "Type": "String",
+   "Name": "Retail112"
+ },
+ {
+   "Code": 90037,
+   "Type": "String",
+   "Name": "Retail115"
+ },
+ {
+   "Code": 90036,
+   "Type": "String",
+   "Name": "Retail114"
+ },
+ {
+   "Code": 90039,
+   "Type": "String",
+   "Name": "Retail117"
+ },
+ {
+   "Code": 90038,
+   "Type": "String",
+   "Name": "Retail116"
+ },
+ {
+   "Code": 7295,
+   "Type": "String",
+   "Name": "NO LONGER USED - VISA"
+ },
+ {
+   "Code": 90031,
+   "Type": "String",
+   "Name": "Retail109"
+ },
+ {
+   "Code": 90030,
+   "Type": "String",
+   "Name": "Retail108"
+ },
+ {
+   "Code": 1740,
+   "Type": "String",
+   "Name": "MASONRY, STONEWORK, TILE SETTING, PLASTERING & INSULATION CONTRACTORS"
+ },
+ {
+   "Code": 90029,
+   "Type": "String",
+   "Name": "Retail107"
+ },
+ {
+   "Code": 8398,
+   "Type": "String",
+   "Name": "CHARITABLE & SOCIAL SERVICE ORGANIZATIONS"
+ },
+ {
+   "Code": 90066,
+   "Type": "String",
+   "Name": "Retail144"
+ },
+ {
+   "Code": 90065,
+   "Type": "String",
+   "Name": "Retail143"
+ },
+ {
+   "Code": 90068,
+   "Type": "String",
+   "Name": "Retail146"
+ },
+ {
+   "Code": 90067,
+   "Type": "String",
+   "Name": "Retail145"
+ },
+ {
+   "Code": 90069,
+   "Type": "String",
+   "Name": "Retail147"
+ },
+ {
+   "Code": 90060,
+   "Type": "String",
+   "Name": "Retail138"
+ },
+ {
+   "Code": 90062,
+   "Type": "String",
+   "Name": "Retail140"
+ },
+ {
+   "Code": 90061,
+   "Type": "String",
+   "Name": "Retail139"
+ },
+ {
+   "Code": 90064,
+   "Type": "String",
+   "Name": "Retail142"
+ },
+ {
+   "Code": 90063,
+   "Type": "String",
+   "Name": "Retail141"
+ },
+ {
+   "Code": 2842,
+   "Type": "String",
+   "Name": "SPECIALTY CLEANING, POLISHING, & SANITATION PREPARATIONS"
+ },
+ {
+   "Code": 1750,
+   "Type": "String",
+   "Name": "CARPENTRY CONTRACTORS"
+ },
+ {
+   "Code": 90055,
+   "Type": "String",
+   "Name": "Retail133"
+ },
+ {
+   "Code": 90054,
+   "Type": "String",
+   "Name": "Retail132"
+ },
+ {
+   "Code": 90057,
+   "Type": "String",
+   "Name": "Retail135"
+ },
+ {
+   "Code": 90056,
+   "Type": "String",
+   "Name": "Retail134"
+ },
+ {
+   "Code": 90059,
+   "Type": "String",
+   "Name": "Retail137"
+ },
+ {
+   "Code": 90058,
+   "Type": "String",
+   "Name": "Retail136"
+ },
+ {
+   "Code": 90051,
+   "Type": "String",
+   "Name": "Retail129"
+ },
+ {
+   "Code": 90050,
+   "Type": "String",
+   "Name": "Retail128"
+ },
+ {
+   "Code": 90053,
+   "Type": "String",
+   "Name": "Retail131"
+ },
+ {
+   "Code": 90052,
+   "Type": "String",
+   "Name": "Retail130"
+ },
+ {
+   "Code": 3704,
+   "Type": "String",
+   "Name": "ROYCE HOTELS"
+ },
+ {
+   "Code": 3705,
+   "Type": "String",
+   "Name": "SANDMAN INNS"
+ },
+ {
+   "Code": 3706,
+   "Type": "String",
+   "Name": "SHILO INNS"
+ },
+ {
+   "Code": 3707,
+   "Type": "String",
+   "Name": "SHONEY'S INNS"
+ },
+ {
+   "Code": 3708,
+   "Type": "String",
+   "Name": "VIRGIN RIVER HOTEL AND CASINO"
+ },
+ {
+   "Code": 1520,
+   "Type": "String",
+   "Name": "GENERAL CONTRACTORS - RESIDENTIAL & COMMERCIAL"
+ },
+ {
+   "Code": 3709,
+   "Type": "String",
+   "Name": "SUPER 8 MOTELS"
+ },
+ {
+   "Code": 1761,
+   "Type": "String",
+   "Name": "ROOFING, SIDING, AND SHEET METAL WORK CONTRANTORS"
+ },
+ {
+   "Code": 3700,
+   "Type": "String",
+   "Name": "MOTEL 6"
+ },
+ {
+   "Code": 3701,
+   "Type": "String",
+   "Name": "LA MANSION DEL RIO"
+ },
+ {
+   "Code": 3702,
+   "Type": "String",
+   "Name": "THE REGISTRY HOTELS"
+ },
+ {
+   "Code": 3703,
+   "Type": "String",
+   "Name": "RESIDENCE INNS"
+ },
+ {
+   "Code": 90088,
+   "Type": "String",
+   "Name": "Wholesale"
+ },
+ {
+   "Code": 90087,
+   "Type": "String",
+   "Name": "Travel"
+ },
+ {
+   "Code": 90080,
+   "Type": "String",
+   "Name": "Retail158"
+ },
+ {
+   "Code": 90082,
+   "Type": "String",
+   "Name": "Retail160"
+ },
+ {
+   "Code": 90081,
+   "Type": "String",
+   "Name": "Retail159"
+ },
+ {
+   "Code": 90084,
+   "Type": "String",
+   "Name": "Retail92"
+ },
+ {
+   "Code": 90083,
+   "Type": "String",
+   "Name": "Retail182"
+ },
+ {
+   "Code": 90086,
+   "Type": "String",
+   "Name": "RetailReseller"
+ },
+ {
+   "Code": 90085,
+   "Type": "String",
+   "Name": "RetailOne25"
+ },
+ {
+   "Code": 3715,
+   "Type": "String",
+   "Name": "FAIRFIELD INN"
+ },
+ {
+   "Code": 3716,
+   "Type": "String",
+   "Name": "CARLTON HOTELS"
+ },
+ {
+   "Code": 3717,
+   "Type": "String",
+   "Name": "CITY LODGE HOTELS"
+ },
+ {
+   "Code": 3718,
+   "Type": "String",
+   "Name": "KAROS HOTELS"
+ },
+ {
+   "Code": 3719,
+   "Type": "String",
+   "Name": "PROTEA HOTELS"
+ },
+ {
+   "Code": 1771,
+   "Type": "String",
+   "Name": "CONTRACTORS-CONCRETE WORK"
+ },
+ {
+   "Code": 3710,
+   "Type": "String",
+   "Name": "THE RITZ-CARLTON"
+ },
+ {
+   "Code": 3711,
+   "Type": "String",
+   "Name": "FLAG INNS (AUSTRALIA)"
+ },
+ {
+   "Code": 3712,
+   "Type": "String",
+   "Name": "BUFFALO BILL’S HOTEL AND CASINO"
+ },
+ {
+   "Code": 3713,
+   "Type": "String",
+   "Name": "QUALITY PACIFIC HOTEL"
+ },
+ {
+   "Code": 3714,
+   "Type": "String",
+   "Name": "FOUR SEASONS HOTEL (AUSTRALIA)"
+ },
+ {
+   "Code": 90077,
+   "Type": "String",
+   "Name": "Retail155"
+ },
+ {
+   "Code": 90076,
+   "Type": "String",
+   "Name": "Retail154"
+ },
+ {
+   "Code": 90079,
+   "Type": "String",
+   "Name": "Retail157"
+ },
+ {
+   "Code": 90078,
+   "Type": "String",
+   "Name": "Retail156"
+ },
+ {
+   "Code": 90071,
+   "Type": "String",
+   "Name": "Retail149"
+ },
+ {
+   "Code": 90070,
+   "Type": "String",
+   "Name": "Retail148"
+ },
+ {
+   "Code": 90073,
+   "Type": "String",
+   "Name": "Retail151"
+ },
+ {
+   "Code": 90072,
+   "Type": "String",
+   "Name": "Retail150"
+ },
+ {
+   "Code": 90075,
+   "Type": "String",
+   "Name": "Retail153"
+ },
+ {
+   "Code": 90074,
+   "Type": "String",
+   "Name": "Retail152"
+ },
+ {
+   "Code": 3726,
+   "Type": "String",
+   "Name": "RIO SUITES"
+ },
+ {
+   "Code": 4815,
+   "Type": "String",
+   "Name": "VISAPHONE"
+ },
+ {
+   "Code": 3727,
+   "Type": "String",
+   "Name": "BROADMOOR HOTEL"
+ },
+ {
+   "Code": 4816,
+   "Type": "String",
+   "Name": "COMPUTER NETWORK / INFORMATION SERVICES"
+ },
+ {
+   "Code": 3728,
+   "Type": "String",
+   "Name": "BALLY’S HOTEL AND CASINO"
+ },
+ {
+   "Code": 3729,
+   "Type": "String",
+   "Name": "JOHN ASCUAGA’S NUGGET"
+ },
+ {
+   "Code": 3720,
+   "Type": "String",
+   "Name": "SOUTHERN SUN HOTELS"
+ },
+ {
+   "Code": 3721,
+   "Type": "String",
+   "Name": "HILTON CONRAD"
+ },
+ {
+   "Code": 3722,
+   "Type": "String",
+   "Name": "WYNDHAM"
+ },
+ {
+   "Code": 3723,
+   "Type": "String",
+   "Name": "RICA HOTELS"
+ },
+ {
+   "Code": 4812,
+   "Type": "String",
+   "Name": "TELECOMMUNICATION EQUIPMENT & TELEPHONE SALES"
+ },
+ {
+   "Code": 3724,
+   "Type": "String",
+   "Name": "INTER NOR HOTELS"
+ },
+ {
+   "Code": 4813,
+   "Type": "String",
+   "Name": "SPECIAL TELECOM MERCHANT"
+ },
+ {
+   "Code": 3725,
+   "Type": "String",
+   "Name": "SEA PINES RESORT"
+ },
+ {
+   "Code": 4814,
+   "Type": "String",
+   "Name": "TELECOMMUNICATION SERVICES"
+ },
+ {
+   "Code": 3737,
+   "Type": "String",
+   "Name": "RIVIERA HOTEL AND CASINO"
+ },
+ {
+   "Code": 1799,
+   "Type": "String",
+   "Name": "SPECIAL TRADE CONTRACTORS (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 3738,
+   "Type": "String",
+   "Name": "TROPICANA RESORT & CASINO"
+ },
+ {
+   "Code": 3739,
+   "Type": "String",
+   "Name": "WOODSIDE HOTELS & RESORTS"
+ },
+ {
+   "Code": 4829,
+   "Type": "String",
+   "Name": "WIRE TRANSFER MONEY ORDERS (WTMOs)"
+ },
+ {
+   "Code": 3730,
+   "Type": "String",
+   "Name": "MGM GRAND HOTEL"
+ },
+ {
+   "Code": 3731,
+   "Type": "String",
+   "Name": "HARRAHS HOTELS / CASINOS"
+ },
+ {
+   "Code": 3732,
+   "Type": "String",
+   "Name": "OPRYLAND HOTEL"
+ },
+ {
+   "Code": 4821,
+   "Type": "String",
+   "Name": "TELEGRAPH SERVICES"
+ },
+ {
+   "Code": 3733,
+   "Type": "String",
+   "Name": "BOCA RATON RESORT"
+ },
+ {
+   "Code": 3734,
+   "Type": "String",
+   "Name": "HARVEY/BRISTOL HOTELS"
+ },
+ {
+   "Code": 5912,
+   "Type": "String",
+   "Name": "DRUG STORES & PHARMACIES"
+ },
+ {
+   "Code": 3735,
+   "Type": "String",
+   "Name": "MASTERS ECONOMY INNS"
+ },
+ {
+   "Code": 3736,
+   "Type": "String",
+   "Name": "COLORADO BELLE/EDGEWATER RESORT"
+ },
+ {
+   "Code": 3750,
+   "Type": "String",
+   "Name": "CROWNE PLAZA HOTELS"
+ },
+ {
+   "Code": 3505,
+   "Type": "String",
+   "Name": "FORTE HOTELS"
+ },
+ {
+   "Code": 3748,
+   "Type": "String",
+   "Name": "WELLESLEY INNS"
+ },
+ {
+   "Code": 3504,
+   "Type": "String",
+   "Name": "HILTON HOTELS"
+ },
+ {
+   "Code": 3749,
+   "Type": "String",
+   "Name": "THE BEVERLY HILLS HOTEL"
+ },
+ {
+   "Code": 3503,
+   "Type": "String",
+   "Name": "SHERATON HOTELS"
+ },
+ {
+   "Code": 3502,
+   "Type": "String",
+   "Name": "BEST WESTERN HOTELS"
+ },
+ {
+   "Code": 3501,
+   "Type": "String",
+   "Name": "HOLIDAY INN EXPRESS # HOLIDAY INNS"
+ },
+ {
+   "Code": 3740,
+   "Type": "String",
+   "Name": "TOWNEPLACE SUITES"
+ },
+ {
+   "Code": 3741,
+   "Type": "String",
+   "Name": "MILLENNIUM HOTELS"
+ },
+ {
+   "Code": 3742,
+   "Type": "String",
+   "Name": "CLUB MED"
+ },
+ {
+   "Code": 3743,
+   "Type": "String",
+   "Name": "BILTMORE HOTEL & SUITES"
+ },
+ {
+   "Code": 5921,
+   "Type": "String",
+   "Name": "PACKAGE STORES - BEER, WINE & LIQUOR"
+ },
+ {
+   "Code": 3509,
+   "Type": "String",
+   "Name": "MARRIOTT"
+ },
+ {
+   "Code": 3744,
+   "Type": "String",
+   "Name": "CAREFREE RESORTS"
+ },
+ {
+   "Code": 3508,
+   "Type": "String",
+   "Name": "QUALITY INNS"
+ },
+ {
+   "Code": 3745,
+   "Type": "String",
+   "Name": "ST. REGIS HOTEL"
+ },
+ {
+   "Code": 3507,
+   "Type": "String",
+   "Name": "FRIENDSHIP INNS"
+ },
+ {
+   "Code": 3746,
+   "Type": "String",
+   "Name": "THE ELIOT HOTEL"
+ },
+ {
+   "Code": 3506,
+   "Type": "String",
+   "Name": "GOLDEN TULIP HOTELS"
+ },
+ {
+   "Code": 3747,
+   "Type": "String",
+   "Name": "CLUB CORP / CLUB RESORTS"
+ },
+ {
+   "Code": 3760,
+   "Type": "String",
+   "Name": "HALEKULANI HOTEL/WAIKIKI PARC"
+ },
+ {
+   "Code": 3761,
+   "Type": "String",
+   "Name": "PRIMADONNA HOTEL AND CASINO"
+ },
+ {
+   "Code": 3516,
+   "Type": "String",
+   "Name": "LA QUINTA MOTOR INNS"
+ },
+ {
+   "Code": 3759,
+   "Type": "String",
+   "Name": "THE ORCHID AT MAUNA LANI"
+ },
+ {
+   "Code": 5937,
+   "Type": "String",
+   "Name": "ANTIQUE REPRODUCTIONS"
+ },
+ {
+   "Code": 3515,
+   "Type": "String",
+   "Name": "RODEWAY INNS"
+ },
+ {
+   "Code": 3514,
+   "Type": "String",
+   "Name": "AMERISUITES"
+ },
+ {
+   "Code": 3513,
+   "Type": "String",
+   "Name": "WESTIN (WESTIN HOTELS)"
+ },
+ {
+   "Code": 3512,
+   "Type": "String",
+   "Name": "INTER-CONTINENTAL HOTELS"
+ },
+ {
+   "Code": 3511,
+   "Type": "String",
+   "Name": "ARABELLA HOTELS"
+ },
+ {
+   "Code": 3510,
+   "Type": "String",
+   "Name": "DAYS INNS"
+ },
+ {
+   "Code": 3751,
+   "Type": "String",
+   "Name": "HOMEWOOD SUITES"
+ },
+ {
+   "Code": 3752,
+   "Type": "String",
+   "Name": "PEABODY HOTELS"
+ },
+ {
+   "Code": 3753,
+   "Type": "String",
+   "Name": "GREENBRIAR RESORTS"
+ },
+ {
+   "Code": 5931,
+   "Type": "String",
+   "Name": "USED MERCHANDISE & SECONDHAND STORES"
+ },
+ {
+   "Code": 3754,
+   "Type": "String",
+   "Name": "AMELIA ISLAND PLANTATION"
+ },
+ {
+   "Code": 5932,
+   "Type": "String",
+   "Name": "ANTIQUE SHOPS"
+ },
+ {
+   "Code": 3755,
+   "Type": "String",
+   "Name": "THE HOMESTEAD"
+ },
+ {
+   "Code": 5933,
+   "Type": "String",
+   "Name": "PAWN SHOPS"
+ },
+ {
+   "Code": 3756,
+   "Type": "String",
+   "Name": "SOUTH SEAS RESORTS"
+ },
+ {
+   "Code": 3519,
+   "Type": "String",
+   "Name": "PULLMAN INTERNATIONAL HOTELS"
+ },
+ {
+   "Code": 3757,
+   "Type": "String",
+   "Name": "CANYON RANCH"
+ },
+ {
+   "Code": 3518,
+   "Type": "String",
+   "Name": "SOL HOTELS"
+ },
+ {
+   "Code": 5935,
+   "Type": "String",
+   "Name": "WRECKING AND SALVAGE YARDS"
+ },
+ {
+   "Code": 3517,
+   "Type": "String",
+   "Name": "AMERICANA HOTELS"
+ },
+ {
+   "Code": 3758,
+   "Type": "String",
+   "Name": "KAHALA MANDARIN ORIENTAL HOTEL"
+ },
+ {
+   "Code": 3770,
+   "Type": "String",
+   "Name": "SPRINGHILL SUITES"
+ },
+ {
+   "Code": 3771,
+   "Type": "String",
+   "Name": "CAESAR’S HOTEL AND CASINO"
+ },
+ {
+   "Code": 3772,
+   "Type": "String",
+   "Name": "NEMACOLIN WOODLANDS"
+ },
+ {
+   "Code": 5950,
+   "Type": "String",
+   "Name": "GLASSWARE / CRYSTAL STORES"
+ },
+ {
+   "Code": 3530,
+   "Type": "String",
+   "Name": "RENAISSANCE HOTELS"
+ },
+ {
+   "Code": 3527,
+   "Type": "String",
+   "Name": "DOWNTOWNER-PASSPORT HOTEL"
+ },
+ {
+   "Code": 5948,
+   "Type": "String",
+   "Name": "LUGGAGE & LEATHER GOODS STORES"
+ },
+ {
+   "Code": 3526,
+   "Type": "String",
+   "Name": "PRINCE HOTELS"
+ },
+ {
+   "Code": 5949,
+   "Type": "String",
+   "Name": "SEWING NEEDLEWORK, FABRIC, & PIECE GOODS STORES"
+ },
+ {
+   "Code": 3525,
+   "Type": "String",
+   "Name": "DUNFEY HOTELS"
+ },
+ {
+   "Code": 3524,
+   "Type": "String",
+   "Name": "WELCOMGROUP HOTELS"
+ },
+ {
+   "Code": 3523,
+   "Type": "String",
+   "Name": "PENINSULA HOTEL"
+ },
+ {
+   "Code": 3522,
+   "Type": "String",
+   "Name": "TOKYO HOTEL"
+ },
+ {
+   "Code": 3521,
+   "Type": "String",
+   "Name": "ROYAL LAHAINA RESORTS"
+ },
+ {
+   "Code": 3520,
+   "Type": "String",
+   "Name": "MERIDIEN HOTELS"
+ },
+ {
+   "Code": 3762,
+   "Type": "String",
+   "Name": "WHISKEY PETE’S HOTEL AND CASINO"
+ },
+ {
+   "Code": 5940,
+   "Type": "String",
+   "Name": "BICYCLE SHOPS-SALES & SERVICE"
+ },
+ {
+   "Code": 3763,
+   "Type": "String",
+   "Name": "CHATEAU ELAN WINERY AND RESORT"
+ },
+ {
+   "Code": 5941,
+   "Type": "String",
+   "Name": "SPORTING GOODS STORES"
+ },
+ {
+   "Code": 3764,
+   "Type": "String",
+   "Name": "BEAU RIVAGE HOTEL AND CASINO"
+ },
+ {
+   "Code": 5942,
+   "Type": "String",
+   "Name": "BOOK STORES"
+ },
+ {
+   "Code": 3765,
+   "Type": "String",
+   "Name": "BELLAGIO"
+ },
+ {
+   "Code": 5943,
+   "Type": "String",
+   "Name": "STATIONERY STORES"
+ },
+ {
+   "Code": 3766,
+   "Type": "String",
+   "Name": "FREMONT HOTEL AND CASINO"
+ },
+ {
+   "Code": 5944,
+   "Type": "String",
+   "Name": "JEWELRY STORES WATCHES CLOCKS & SILVERWARE STORES"
+ },
+ {
+   "Code": 3767,
+   "Type": "String",
+   "Name": "MAIN STREET STATION HOTEL AND CASINO"
+ },
+ {
+   "Code": 5945,
+   "Type": "String",
+   "Name": "HOBBY TOY & GAME SHOPS"
+ },
+ {
+   "Code": 3529,
+   "Type": "String",
+   "Name": "CP (CANADIAN PACIFIC) HOTELS"
+ },
+ {
+   "Code": 3768,
+   "Type": "String",
+   "Name": "SILVER STAR HOTEL AND CASINO"
+ },
+ {
+   "Code": 5946,
+   "Type": "String",
+   "Name": "CAMERA & PHOTOGRAPHIC SUPPLY STORES"
+ },
+ {
+   "Code": 3769,
+   "Type": "String",
+   "Name": "STRATOSPHERE HOTEL AND CASINO"
+ },
+ {
+   "Code": 5947,
+   "Type": "String",
+   "Name": "GIFT CARD NOVELTY & SOUVENIR SHOPS"
+ },
+ {
+   "Code": 3780,
+   "Type": "String",
+   "Name": "DISNEY RESORTS"
+ },
+ {
+   "Code": 3781,
+   "Type": "String",
+   "Name": "PATRICIA GRAND RESORT HOTELS"
+ },
+ {
+   "Code": 3782,
+   "Type": "String",
+   "Name": "ROSEN HOTELS AND RESORTS"
+ },
+ {
+   "Code": 5960,
+   "Type": "String",
+   "Name": "DIRECT MARKETING - INSURANCE SERVICES"
+ },
+ {
+   "Code": 3783,
+   "Type": "String",
+   "Name": "TOWN AND COUNTRY RESORT"
+ },
+ {
+   "Code": 5961,
+   "Type": "String",
+   "Name": "MAIL ORDER"
+ },
+ {
+   "Code": 3541,
+   "Type": "String",
+   "Name": "HOTEL OKURA"
+ },
+ {
+   "Code": 3540,
+   "Type": "String",
+   "Name": "IBEROTEL HOTELS"
+ },
+ {
+   "Code": 3538,
+   "Type": "String",
+   "Name": "CONCORDE HOTELS"
+ },
+ {
+   "Code": 3537,
+   "Type": "String",
+   "Name": "ANA HOTELS"
+ },
+ {
+   "Code": 5718,
+   "Type": "String",
+   "Name": "FIREPLACE, FIREPLACE SCREENS & ACCESSORIES STORES"
+ },
+ {
+   "Code": 3536,
+   "Type": "String",
+   "Name": "AMFAC HOTELS"
+ },
+ {
+   "Code": 5719,
+   "Type": "String",
+   "Name": "MISCELLANEOUS HOME FURNISHING SPECIALTY STORES"
+ },
+ {
+   "Code": 3535,
+   "Type": "String",
+   "Name": "HILTON INTERNATIONALS"
+ },
+ {
+   "Code": 3534,
+   "Type": "String",
+   "Name": "SOUTHERN PACIFIC HOTELS"
+ },
+ {
+   "Code": 3533,
+   "Type": "String",
+   "Name": "HOTEL IBIS"
+ },
+ {
+   "Code": 3532,
+   "Type": "String",
+   "Name": "ROYAL KONA RESORT"
+ },
+ {
+   "Code": 3531,
+   "Type": "String",
+   "Name": "KAUAI COCONUT BEACH RESORT"
+ },
+ {
+   "Code": 3773,
+   "Type": "String",
+   "Name": "THE VENETIAN RESORT HOTEL CASINO"
+ },
+ {
+   "Code": 3774,
+   "Type": "String",
+   "Name": "NEW YORK-NEW YORK HOTEL AND CASINO"
+ },
+ {
+   "Code": 3775,
+   "Type": "String",
+   "Name": "SANDS RESORT"
+ },
+ {
+   "Code": 3776,
+   "Type": "String",
+   "Name": "NEVELE GRAND RESORT AND COUNTRY CLUB"
+ },
+ {
+   "Code": 5712,
+   "Type": "String",
+   "Name": "FURNITURE HOME FURNISHINGS & EQUIPMENT STORES EXCEPTING APPLIANCES"
+ },
+ {
+   "Code": 3777,
+   "Type": "String",
+   "Name": "MANDALAY BAY RESORT"
+ },
+ {
+   "Code": 5713,
+   "Type": "String",
+   "Name": "FLOOR COVERING STORES"
+ },
+ {
+   "Code": 3778,
+   "Type": "String",
+   "Name": "FOUR POINTS HOTELS"
+ },
+ {
+   "Code": 5714,
+   "Type": "String",
+   "Name": "DRAPERY, WINDOW COVERING, & UPHOLSTERY STORES"
+ },
+ {
+   "Code": 3779,
+   "Type": "String",
+   "Name": "W HOTELS"
+ },
+ {
+   "Code": 3539,
+   "Type": "String",
+   "Name": "SUMMERFIELD SUITES HOTELS"
+ },
+ {
+   "Code": 3790,
+   "Type": "String",
+   "Name": "RAFFLES HOTELS"
+ },
+ {
+   "Code": 3791,
+   "Type": "String",
+   "Name": "STAYBRIDGE SUITES"
+ },
+ {
+   "Code": 3792,
+   "Type": "String",
+   "Name": "CLARIDGE CASINO HOTEL"
+ },
+ {
+   "Code": 5970,
+   "Type": "String",
+   "Name": "ARTISTS SUPPLY & CRAFT SHOPS"
+ },
+ {
+   "Code": 3793,
+   "Type": "String",
+   "Name": "FLAMINGO HOTELS"
+ },
+ {
+   "Code": 5971,
+   "Type": "String",
+   "Name": "ART DEALERS & GALLERIES"
+ },
+ {
+   "Code": 3794,
+   "Type": "String",
+   "Name": "GRAND CASINO HOTELS"
+ },
+ {
+   "Code": 5972,
+   "Type": "String",
+   "Name": "STAMP AND COIN STORES - PHILATELIC AND NUMISMATIC SUPPLIES"
+ },
+ {
+   "Code": 3552,
+   "Type": "String",
+   "Name": "COAST HOTELS"
+ },
+ {
+   "Code": 3551,
+   "Type": "String",
+   "Name": "MIRAGE HOTEL AND CASINO"
+ },
+ {
+   "Code": 3550,
+   "Type": "String",
+   "Name": "REGAL 8 INNS"
+ },
+ {
+   "Code": 3549,
+   "Type": "String",
+   "Name": "AUBERGE DES GOVERNEURS"
+ },
+ {
+   "Code": 3548,
+   "Type": "String",
+   "Name": "HOTELS MELIA"
+ },
+ {
+   "Code": 3547,
+   "Type": "String",
+   "Name": "BREAKERS RESORT"
+ },
+ {
+   "Code": 3546,
+   "Type": "String",
+   "Name": "SIERRA SUITES HOTELS"
+ },
+ {
+   "Code": 3545,
+   "Type": "String",
+   "Name": "SHANGRI-LA INTERNATIONAL"
+ },
+ {
+   "Code": 3544,
+   "Type": "String",
+   "Name": "CIGA HOTELS"
+ },
+ {
+   "Code": 3543,
+   "Type": "String",
+   "Name": "FOUR SEASONS HOTELS"
+ },
+ {
+   "Code": 3542,
+   "Type": "String",
+   "Name": "ROYAL HOTELS"
+ },
+ {
+   "Code": 3784,
+   "Type": "String",
+   "Name": "FIRST HOSPITALITY HOTELS"
+ },
+ {
+   "Code": 5962,
+   "Type": "String",
+   "Name": "DIRECT MARKETING - TRAVEL-RELATED ARRANGEMENT SERVICES (HIGH RISK MCC)"
+ },
+ {
+   "Code": 3785,
+   "Type": "String",
+   "Name": "OUTRIGGER HOTELS AND RESORTS"
+ },
+ {
+   "Code": 5963,
+   "Type": "String",
+   "Name": "DOOR-TO-DOOR SALES"
+ },
+ {
+   "Code": 3786,
+   "Type": "String",
+   "Name": "OHANA HOTELS OF HAWAII"
+ },
+ {
+   "Code": 5722,
+   "Type": "String",
+   "Name": "HOUSEHOLD APPLIANCE STORES"
+ },
+ {
+   "Code": 5964,
+   "Type": "String",
+   "Name": "DIRECT MARKETING - CATALOG MERCHANT"
+ },
+ {
+   "Code": 3787,
+   "Type": "String",
+   "Name": "CARIBE ROYALE RESORTS"
+ },
+ {
+   "Code": 5965,
+   "Type": "String",
+   "Name": "DIRECT MARKETING - COMBINATION CATALOG AND RETAIL MERCHANT"
+ },
+ {
+   "Code": 3788,
+   "Type": "String",
+   "Name": "ALA MOANA HOTEL"
+ },
+ {
+   "Code": 5966,
+   "Type": "String",
+   "Name": "DIRECT MARKETING - OUTBOUND TELEMARKETING MERCHANT (HIGH RISK MCC)"
+ },
+ {
+   "Code": 3789,
+   "Type": "String",
+   "Name": "SMUGGLER’S NOTCH RESORT"
+ },
+ {
+   "Code": 5967,
+   "Type": "String",
+   "Name": "DIRECT MARKETING - INBOUND TELESERVICES MERCHANT (HIGH RISK MCC)"
+ },
+ {
+   "Code": 5968,
+   "Type": "String",
+   "Name": "DIRECT MARKETING - CONTINUITY/SUBSCRIPTION MERCH"
+ },
+ {
+   "Code": 5969,
+   "Type": "String",
+   "Name": "DIRECT MARKETING - OTHER DIRECT MARKETERS (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 90002,
+   "Type": "String",
+   "Name": "BFSI"
+ },
+ {
+   "Code": 90001,
+   "Type": "String",
+   "Name": "B2B"
+ },
+ {
+   "Code": 90004,
+   "Type": "String",
+   "Name": "Corporate"
+ },
+ {
+   "Code": 90003,
+   "Type": "String",
+   "Name": "Broker"
+ },
+ {
+   "Code": 90006,
+   "Type": "String",
+   "Name": "ECommerce"
+ },
+ {
+   "Code": 5983,
+   "Type": "String",
+   "Name": "FUEL DEALERS - FUEL OIL, WOOD, COAL, LIQUEFIED PETROLEUM"
+ },
+ {
+   "Code": 90005,
+   "Type": "String",
+   "Name": "Direct"
+ },
+ {
+   "Code": 3563,
+   "Type": "String",
+   "Name": "JOURNEY’S END MOTELS"
+ },
+ {
+   "Code": 3562,
+   "Type": "String",
+   "Name": "COMFORT INNS"
+ },
+ {
+   "Code": 3561,
+   "Type": "String",
+   "Name": "GOLDEN NUGGET"
+ },
+ {
+   "Code": 3560,
+   "Type": "String",
+   "Name": "ALADDIN RESORT AND CASINO"
+ },
+ {
+   "Code": 3559,
+   "Type": "String",
+   "Name": "CANDLEWOOD SUITES"
+ },
+ {
+   "Code": 3558,
+   "Type": "String",
+   "Name": "JOLLY HOTELS"
+ },
+ {
+   "Code": 3557,
+   "Type": "String",
+   "Name": "MANHATTAN EAST SUITE HOTELS"
+ },
+ {
+   "Code": 3556,
+   "Type": "String",
+   "Name": "BARTON CREEK RESORT"
+ },
+ {
+   "Code": 3555,
+   "Type": "String",
+   "Name": "TREASURE ISLAND HOTEL AND CASINO"
+ },
+ {
+   "Code": 3554,
+   "Type": "String",
+   "Name": "PINEHURST RESORT"
+ },
+ {
+   "Code": 2222,
+   "Type": "String",
+   "Name": "OTHERS-NOT ELSEWHERE CLASSIFIED"
+ },
+ {
+   "Code": 3553,
+   "Type": "String",
+   "Name": "PARK INNS INTERNATIONAL"
+ },
+ {
+   "Code": 3795,
+   "Type": "String",
+   "Name": "PARIS LAS VEGAS HOTEL"
+ },
+ {
+   "Code": 5973,
+   "Type": "String",
+   "Name": "RELIGIOUS GOODS STORES"
+ },
+ {
+   "Code": 3796,
+   "Type": "String",
+   "Name": "PEPPERMILL HOTEL CASINO"
+ },
+ {
+   "Code": 5732,
+   "Type": "String",
+   "Name": "ELECTRONICS STORES"
+ },
+ {
+   "Code": 3797,
+   "Type": "String",
+   "Name": "ATLANTIC CITY HILTON RESORTS"
+ },
+ {
+   "Code": 5733,
+   "Type": "String",
+   "Name": "MUSIC STORES - MUSICAL INSTRUMENTS PIANOS & SHEET MUSIC"
+ },
+ {
+   "Code": 5975,
+   "Type": "String",
+   "Name": "HEARING AIDS - SALES SERVICE & SUPPLY"
+ },
+ {
+   "Code": 3798,
+   "Type": "String",
+   "Name": "EMBASSY VACATION RESORT"
+ },
+ {
+   "Code": 5734,
+   "Type": "String",
+   "Name": "COMPUTER SOFTWARE STORES"
+ },
+ {
+   "Code": 5976,
+   "Type": "String",
+   "Name": "ORTHOPEDIC GOODS - PROSTHETIC DEVICES"
+ },
+ {
+   "Code": 7911,
+   "Type": "String",
+   "Name": "DANCE HALLS, STUDIOS AND SCHOOLS"
+ },
+ {
+   "Code": 3799,
+   "Type": "String",
+   "Name": "HALE KOA HOTEL"
+ },
+ {
+   "Code": 5735,
+   "Type": "String",
+   "Name": "RECORD STORES"
+ },
+ {
+   "Code": 5977,
+   "Type": "String",
+   "Name": "COSMETIC STORES"
+ },
+ {
+   "Code": 5978,
+   "Type": "String",
+   "Name": "TYPEWRITER STORE-SALES, RENTALS, SERVICE"
+ },
+ {
+   "Code": 5992,
+   "Type": "String",
+   "Name": "FLORISTS"
+ },
+ {
+   "Code": 5993,
+   "Type": "String",
+   "Name": "CIGAR STORES AND STANDS"
+ },
+ {
+   "Code": 5994,
+   "Type": "String",
+   "Name": "NEWS DEALERS & NEWS STANDS"
+ },
+ {
+   "Code": 3574,
+   "Type": "String",
+   "Name": "VENTURE INNS"
+ },
+ {
+   "Code": 3573,
+   "Type": "String",
+   "Name": "SANDMAN HOTELS"
+ },
+ {
+   "Code": 3572,
+   "Type": "String",
+   "Name": "MIYAKO HOTELS"
+ },
+ {
+   "Code": 3571,
+   "Type": "String",
+   "Name": "GRAND WAILEA RESORT"
+ },
+ {
+   "Code": 3570,
+   "Type": "String",
+   "Name": "FORUM HOTELS"
+ },
+ {
+   "Code": 7929,
+   "Type": "String",
+   "Name": "BANDS, ORCHESTRAS, AND MISCELLANEOUS ENTERTAINERS (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 3569,
+   "Type": "String",
+   "Name": "TRIBECA GRAND HOTEL"
+ },
+ {
+   "Code": 3568,
+   "Type": "String",
+   "Name": "LADBROKE HOTELS"
+ },
+ {
+   "Code": 3567,
+   "Type": "String",
+   "Name": "SOHO GRAND HOTEL"
+ },
+ {
+   "Code": 3566,
+   "Type": "String",
+   "Name": "GARDEN PLACE HOTEL"
+ },
+ {
+   "Code": 3565,
+   "Type": "String",
+   "Name": "RELAX INNS"
+ },
+ {
+   "Code": 3564,
+   "Type": "String",
+   "Name": "SAM’S TOWN HOTEL AND CASINO"
+ },
+ {
+   "Code": 4411,
+   "Type": "String",
+   "Name": "STEAMSHIP & CRUISE LINES"
+ },
+ {
+   "Code": 7922,
+   "Type": "String",
+   "Name": "THEATRICAL PRODUCERS (EXCEPT MOTION PICTURES) AND TICKET AGENCIES"
+ },
+ {
+   "Code": 4899,
+   "Type": "String",
+   "Name": "CABLE SATELLITE & OTHER PAY TELEVISION & RADIO SERVICES"
+ },
+ {
+   "Code": 90022,
+   "Type": "String",
+   "Name": "Retail100"
+ },
+ {
+   "Code": 90021,
+   "Type": "String",
+   "Name": "Retail001"
+ },
+ {
+   "Code": 90024,
+   "Type": "String",
+   "Name": "Retail102"
+ },
+ {
+   "Code": 90023,
+   "Type": "String",
+   "Name": "Retail101"
+ },
+ {
+   "Code": 90026,
+   "Type": "String",
+   "Name": "Retail104"
+ },
+ {
+   "Code": 90025,
+   "Type": "String",
+   "Name": "Retail103"
+ },
+ {
+   "Code": 7941,
+   "Type": "String",
+   "Name": "COMMERCIAL SPORTS PROFESSIONAL SPORTS CLUBS ATHLETIC FIELDS & SPORTS PROMOTERS"
+ },
+ {
+   "Code": 90028,
+   "Type": "String",
+   "Name": "Retail106"
+ },
+ {
+   "Code": 5521,
+   "Type": "String",
+   "Name": "CAR & TRUCK DEALERS (USED ONLY) SALES SERVICE REPAIRS PARTS & LEASING"
+ },
+ {
+   "Code": 90027,
+   "Type": "String",
+   "Name": "Retail105"
+ },
+ {
+   "Code": 3585,
+   "Type": "String",
+   "Name": "HUNGAR HOTELS"
+ },
+ {
+   "Code": 3100,
+   "Type": "String",
+   "Name": "Malaysian Airline System--MALAY AI"
+ },
+ {
+   "Code": 3584,
+   "Type": "String",
+   "Name": "PRINCESS HOTELS INTERNATIONAL"
+ },
+ {
+   "Code": 3582,
+   "Type": "String",
+   "Name": "CALIFORNIA HOTEL AND CASINO"
+ },
+ {
+   "Code": 3581,
+   "Type": "String",
+   "Name": "DELTA HOTEL"
+ },
+ {
+   "Code": 3580,
+   "Type": "String",
+   "Name": "HOTEL DEL CORONADO"
+ },
+ {
+   "Code": 90020,
+   "Type": "String",
+   "Name": "Retail"
+ },
+ {
+   "Code": 3579,
+   "Type": "String",
+   "Name": "HOTEL MERCURE"
+ },
+ {
+   "Code": 3578,
+   "Type": "String",
+   "Name": "FRANKENMUTH BAVARIAN"
+ },
+ {
+   "Code": 3577,
+   "Type": "String",
+   "Name": "MANDARIN ORIENTAL HOTEL"
+ },
+ {
+   "Code": 3576,
+   "Type": "String",
+   "Name": "LA QUINTA RESORT"
+ },
+ {
+   "Code": 3333,
+   "Type": "String",
+   "Name": "OTHERS-NOT ELSEWHERE CLASSIFIED"
+ },
+ {
+   "Code": 3575,
+   "Type": "String",
+   "Name": "VAGABOND HOTELS"
+ },
+ {
+   "Code": 5511,
+   "Type": "String",
+   "Name": "CAR & TRUCK DEALERS (NEW & USED) SALES SERVICE REPAIRS PARTS & LEASING"
+ },
+ {
+   "Code": 5995,
+   "Type": "String",
+   "Name": "PET SHOPS, PET FOODS & SUPPLY STORES"
+ },
+ {
+   "Code": 7932,
+   "Type": "String",
+   "Name": "BILLARD AND POOL ESTABLISHMENTS"
+ },
+ {
+   "Code": 90019,
+   "Type": "String",
+   "Name": "ResellerOfUtility"
+ },
+ {
+   "Code": 5996,
+   "Type": "String",
+   "Name": "SWIMMING POOLS - SALES & SERVICE"
+ },
+ {
+   "Code": 90018,
+   "Type": "String",
+   "Name": "Reseller"
+ },
+ {
+   "Code": 5997,
+   "Type": "String",
+   "Name": "ELECTRIC RAZOR STORES"
+ },
+ {
+   "Code": 5998,
+   "Type": "String",
+   "Name": "TENT AND AWNING SHOPS"
+ },
+ {
+   "Code": 7933,
+   "Type": "String",
+   "Name": "BOWLING ALLEYS"
+ },
+ {
+   "Code": 5999,
+   "Type": "String",
+   "Name": "MISCELLANEOUS AND SPECIALTY RETAIL"
+ },
+ {
+   "Code": 90011,
+   "Type": "String",
+   "Name": "Grocery"
+ },
+ {
+   "Code": 90010,
+   "Type": "String",
+   "Name": "GovtUtility"
+ },
+ {
+   "Code": 90013,
+   "Type": "String",
+   "Name": "Insurance"
+ },
+ {
+   "Code": 90012,
+   "Type": "String",
+   "Name": "Hotels"
+ },
+ {
+   "Code": 90015,
+   "Type": "String",
+   "Name": "PrivateEducation"
+ },
+ {
+   "Code": 90014,
+   "Type": "String",
+   "Name": "MutualFunds"
+ },
+ {
+   "Code": 5531,
+   "Type": "String",
+   "Name": "AUTO & HOME SUPPLY STORES (NO LONGER VALID MCC)"
+ },
+ {
+   "Code": 90017,
+   "Type": "String",
+   "Name": "Recharge"
+ },
+ {
+   "Code": 5532,
+   "Type": "String",
+   "Name": "AUTOMOTIVE TIRE STORES"
+ },
+ {
+   "Code": 90016,
+   "Type": "String",
+   "Name": "PrivateUtility"
+ },
+ {
+   "Code": 3112,
+   "Type": "String",
+   "Name": "Windward Island--WINDWARD"
+ },
+ {
+   "Code": 3354,
+   "Type": "String",
+   "Name": "ACTION AUTO RENTAL"
+ },
+ {
+   "Code": 3596,
+   "Type": "String",
+   "Name": "WYNN LAS VEGAS"
+ },
+ {
+   "Code": 3111,
+   "Type": "String",
+   "Name": "British Midland--BRITISH M"
+ },
+ {
+   "Code": 3353,
+   "Type": "String",
+   "Name": "BROOKS RENT-A-CAR"
+ },
+ {
+   "Code": 3595,
+   "Type": "String",
+   "Name": "HOSPITALITY INNS"
+ },
+ {
+   "Code": 3110,
+   "Type": "String",
+   "Name": "WINGS AIRWAYS"
+ },
+ {
+   "Code": 3352,
+   "Type": "String",
+   "Name": "AMERICAN INTL RENT-A-CAR"
+ },
+ {
+   "Code": 3594,
+   "Type": "String",
+   "Name": "ARIZONA BILTMORE"
+ },
+ {
+   "Code": 3351,
+   "Type": "String",
+   "Name": "AFFILIATED AUTO RENTAL"
+ },
+ {
+   "Code": 3593,
+   "Type": "String",
+   "Name": "CUNARD HOTELS"
+ },
+ {
+   "Code": 3592,
+   "Type": "String",
+   "Name": "OMNI HOTELS"
+ },
+ {
+   "Code": 3591,
+   "Type": "String",
+   "Name": "SONESTA HOTELS"
+ },
+ {
+   "Code": 3590,
+   "Type": "String",
+   "Name": "FAIRMONT HOTELS"
+ },
+ {
+   "Code": 3106,
+   "Type": "String",
+   "Name": "Braathens S.A.F.E. (Norway)--BRAATHEN"
+ },
+ {
+   "Code": 3105,
+   "Type": "String",
+   "Name": "Piedmont"
+ },
+ {
+   "Code": 3589,
+   "Type": "String",
+   "Name": "DORAL GOLF RESORT"
+ },
+ {
+   "Code": 3588,
+   "Type": "String",
+   "Name": "HELMSLEY HOTELS"
+ },
+ {
+   "Code": 742,
+   "Type": "String",
+   "Name": "VETERINARY SERVICES"
+ },
+ {
+   "Code": 3103,
+   "Type": "String",
+   "Name": "Garuda (Indonesia)--GARUDA"
+ },
+ {
+   "Code": 3587,
+   "Type": "String",
+   "Name": "DORAL HOTELS"
+ },
+ {
+   "Code": 3102,
+   "Type": "String",
+   "Name": "Iberia--IBERIA"
+ },
+ {
+   "Code": 3586,
+   "Type": "String",
+   "Name": "SOKOS HOTELS"
+ },
+ {
+   "Code": 90008,
+   "Type": "String",
+   "Name": "EducationGovernment"
+ },
+ {
+   "Code": 6611,
+   "Type": "String",
+   "Name": "OVERPAYMENTS"
+ },
+ {
+   "Code": 90007,
+   "Type": "String",
+   "Name": "Education"
+ },
+ {
+   "Code": 90009,
+   "Type": "String",
+   "Name": "Firstdata"
+ },
+ {
+   "Code": 5541,
+   "Type": "String",
+   "Name": "SERVICE STATIONS"
+ },
+ {
+   "Code": 5300,
+   "Type": "String",
+   "Name": "WHOLESALE CLUB"
+ },
+ {
+   "Code": 5542,
+   "Type": "String",
+   "Name": "AUTOMATED FUEL DISPENSERS"
+ },
+ {
+   "Code": 3364,
+   "Type": "String",
+   "Name": "AGENCY RENT-A-CAR"
+ },
+ {
+   "Code": 3362,
+   "Type": "String",
+   "Name": "ALTRA AUTO RENTAL"
+ },
+ {
+   "Code": 3361,
+   "Type": "String",
+   "Name": "AIRWAYS RENT-A-CAR"
+ },
+ {
+   "Code": 3118,
+   "Type": "String",
+   "Name": "VALLEY AIRLINES"
+ },
+ {
+   "Code": 3117,
+   "Type": "String",
+   "Name": "Venezolana International de Aviacion--VIASA"
+ },
+ {
+   "Code": 3359,
+   "Type": "String",
+   "Name": "PAYLESS CAR RENTAL"
+ },
+ {
+   "Code": 3115,
+   "Type": "String",
+   "Name": "TOWER AIR"
+ },
+ {
+   "Code": 3357,
+   "Type": "String",
+   "Name": "HERTZ"
+ },
+ {
+   "Code": 3599,
+   "Type": "String",
+   "Name": "PANNONIA HOTELS"
+ },
+ {
+   "Code": 3598,
+   "Type": "String",
+   "Name": "REGENT INTERNATIONAL HOTELS"
+ },
+ {
+   "Code": 3355,
+   "Type": "String",
+   "Name": "SIXT CAR RENTAL"
+ },
+ {
+   "Code": 3597,
+   "Type": "String",
+   "Name": "RIVERSIDE RESORT HOTEL AND CASINO"
+ },
+ {
+   "Code": 5533,
+   "Type": "String",
+   "Name": "AUTOMOTIVE PARTS & ACCESSORIES STORES"
+ },
+ {
+   "Code": 5537,
+   "Type": "String",
+   "Name": "OTHERS-NOT ELSEWHERE CLASSIFIED"
+ },
+ {
+   "Code": 5551,
+   "Type": "String",
+   "Name": "BOAT DEALERS"
+ },
+ {
+   "Code": 5310,
+   "Type": "String",
+   "Name": "DISCOUNT STORES"
+ },
+ {
+   "Code": 5311,
+   "Type": "String",
+   "Name": "DEPARTMENT STORES"
+ },
+ {
+   "Code": 3376,
+   "Type": "String",
+   "Name": "AJAX RENT-A-CAR"
+ },
+ {
+   "Code": 3133,
+   "Type": "String",
+   "Name": "SUNBELT AIRLINES"
+ },
+ {
+   "Code": 3132,
+   "Type": "String",
+   "Name": "Frontier Airlines--FRONTIER"
+ },
+ {
+   "Code": 3374,
+   "Type": "String",
+   "Name": "ACCENT RENT-A-CAR"
+ },
+ {
+   "Code": 3131,
+   "Type": "String",
+   "Name": "VLM Airlines--VLM"
+ },
+ {
+   "Code": 3130,
+   "Type": "String",
+   "Name": "Sunworld International Airways--SUNWORLD"
+ },
+ {
+   "Code": 3370,
+   "Type": "String",
+   "Name": "RENT A WRECK"
+ },
+ {
+   "Code": 3129,
+   "Type": "String",
+   "Name": "Surinam Airways--SURINAM"
+ },
+ {
+   "Code": 3127,
+   "Type": "String",
+   "Name": "Taca International--TACA INT"
+ },
+ {
+   "Code": 763,
+   "Type": "String",
+   "Name": "AGRICULTURAL CO-OPERATIVE"
+ },
+ {
+   "Code": 3126,
+   "Type": "String",
+   "Name": "TALAIR"
+ },
+ {
+   "Code": 3368,
+   "Type": "String",
+   "Name": "HOLIDAY RENT-A-CAR"
+ },
+ {
+   "Code": 3125,
+   "Type": "String",
+   "Name": "Tan Airlines--TAN AIR"
+ },
+ {
+   "Code": 3366,
+   "Type": "String",
+   "Name": "BUDGET RENT-A-CAR"
+ },
+ {
+   "Code": 4214,
+   "Type": "String",
+   "Name": "MOTOR FREIGHT CARRIERS & TRUCKING"
+ },
+ {
+   "Code": 4215,
+   "Type": "String",
+   "Name": "COURIER SERVICES"
+ },
+ {
+   "Code": 4457,
+   "Type": "String",
+   "Name": "BOAT RENTALS & LEASES"
+ },
+ {
+   "Code": 5309,
+   "Type": "String",
+   "Name": "DUTY FREE STORES"
+ },
+ {
+   "Code": 5561,
+   "Type": "String",
+   "Name": "CAMPER, RECREATIONAL & UTILITY TRAILER DEALERS"
+ },
+ {
+   "Code": 3145,
+   "Type": "String",
+   "Name": "SAN JUAN AIRLINES"
+ },
+ {
+   "Code": 3387,
+   "Type": "String",
+   "Name": "ALAMO RENT-A-CAR"
+ },
+ {
+   "Code": 3144,
+   "Type": "String",
+   "Name": "Virgin Atlantic--VIR ATL"
+ },
+ {
+   "Code": 3386,
+   "Type": "String",
+   "Name": "SHOWCASE RENTAL CARS"
+ },
+ {
+   "Code": 3143,
+   "Type": "String",
+   "Name": "SCENIC AIRLINES"
+ },
+ {
+   "Code": 3385,
+   "Type": "String",
+   "Name": "TROPICAL RENT-A-CAR"
+ },
+ {
+   "Code": 3141,
+   "Type": "String",
+   "Name": "Seair Alaska"
+ },
+ {
+   "Code": 3381,
+   "Type": "String",
+   "Name": "EUROP CAR"
+ },
+ {
+   "Code": 3380,
+   "Type": "String",
+   "Name": "TRIANGLE RENT-A-CAR"
+ },
+ {
+   "Code": 3138,
+   "Type": "String",
+   "Name": "SIMMONS AIRLINES"
+ },
+ {
+   "Code": 3137,
+   "Type": "String",
+   "Name": "SINGLETON"
+ },
+ {
+   "Code": 3136,
+   "Type": "String",
+   "Name": "Qatar Airways Company W.L.L.--QATAR AIR"
+ },
+ {
+   "Code": 3135,
+   "Type": "String",
+   "Name": "Sudan Airways--SUDANAIR"
+ },
+ {
+   "Code": 5555,
+   "Type": "String",
+   "Name": "OTHERS-NOT ELSEWHERE CLASSIFIED"
+ },
+ {
+   "Code": 4225,
+   "Type": "String",
+   "Name": "PUBLIC WAREHOUSING & STORAGE"
+ },
+ {
+   "Code": 4468,
+   "Type": "String",
+   "Name": "MARINAS MARINE SERVICE & SUPPLIES"
+ },
+ {
+   "Code": 3390,
+   "Type": "String",
+   "Name": "DOLLAR RENT-A-CAR"
+ },
+ {
+   "Code": 5571,
+   "Type": "String",
+   "Name": "MOTORCYCLE DEALERS"
+ },
+ {
+   "Code": 7992,
+   "Type": "String",
+   "Name": "GOLF COURSES - PUBLIC"
+ },
+ {
+   "Code": 7991,
+   "Type": "String",
+   "Name": "TOURIST ATTRACTIONS & EXHIBITS"
+ },
+ {
+   "Code": 5331,
+   "Type": "String",
+   "Name": "VARIETY STORES"
+ },
+ {
+   "Code": 7994,
+   "Type": "String",
+   "Name": "VIDEO GAME ARCADES / ESTABLISHMENTS"
+ },
+ {
+   "Code": 7993,
+   "Type": "String",
+   "Name": "VIDEO AMUSEMENT GAME SUPPLIES"
+ },
+ {
+   "Code": 7512,
+   "Type": "String",
+   "Name": "AUTOMOBILE RENTAL AGENCY"
+ },
+ {
+   "Code": 7996,
+   "Type": "String",
+   "Name": "AMUSEMENT PARKS, CARNIVALS, CIRCUSES, FORTUNE TELLERS"
+ },
+ {
+   "Code": 7511,
+   "Type": "String",
+   "Name": "QUASI CASH - TRUCK STOP TRANSACTIONS"
+ },
+ {
+   "Code": 7995,
+   "Type": "String",
+   "Name": "BETTING, INCLUDING LOTTERY TICKETS, CASINO GAMING CHIPS, OFF-TRACK BETTING & WAGERS AT RACE TRACKS"
+ },
+ {
+   "Code": 3156,
+   "Type": "String",
+   "Name": "GO FLY Ltd.--GOFLY"
+ },
+ {
+   "Code": 3398,
+   "Type": "String",
+   "Name": "ECONO-CAR RENT-A-CAR"
+ },
+ {
+   "Code": 3154,
+   "Type": "String",
+   "Name": "PRINCEVILLE"
+ },
+ {
+   "Code": 3396,
+   "Type": "String",
+   "Name": "TILDEN RENT-A-CAR"
+ },
+ {
+   "Code": 3395,
+   "Type": "String",
+   "Name": "THRIFTY CAR RENTAL"
+ },
+ {
+   "Code": 3394,
+   "Type": "String",
+   "Name": "KEMWELL GROUP RENT-A-CAR"
+ },
+ {
+   "Code": 3151,
+   "Type": "String",
+   "Name": "Air Zaire--AIRZAIRE"
+ },
+ {
+   "Code": 3393,
+   "Type": "String",
+   "Name": "NATIONAL CAR RENTAL"
+ },
+ {
+   "Code": 3391,
+   "Type": "String",
+   "Name": "EUROPE BY CAR"
+ },
+ {
+   "Code": 780,
+   "Type": "String",
+   "Name": "LANDSCAPING & HORTICULTURAL SERVICES"
+ },
+ {
+   "Code": 3148,
+   "Type": "String",
+   "Name": "Air Littoral, S.A.--LITTORAL"
+ },
+ {
+   "Code": 3389,
+   "Type": "String",
+   "Name": "AVIS RENT-A-CAR"
+ },
+ {
+   "Code": 3146,
+   "Type": "String",
+   "Name": "Luxair--LUXAIR"
+ },
+ {
+   "Code": 3388,
+   "Type": "String",
+   "Name": "MERCHANTS RENT-A-CAR"
+ },
+ {
+   "Code": 4011,
+   "Type": "String",
+   "Name": "RAILROADS – FREIGHT"
+ },
+ {
+   "Code": 9700,
+   "Type": "String",
+   "Name": "AUTOMATED REFERRAL SERVICE"
+ },
+ {
+   "Code": 9701,
+   "Type": "String",
+   "Name": "VISA CREDENTIAL SERVER"
+ },
+ {
+   "Code": 7523,
+   "Type": "String",
+   "Name": "PARKING LOTS & GARAGES"
+ },
+ {
+   "Code": 3167,
+   "Type": "String",
+   "Name": "Aero Continente--AERO CONT"
+ },
+ {
+   "Code": 3165,
+   "Type": "String",
+   "Name": "NEW YORK HELICOPTER"
+ },
+ {
+   "Code": 3164,
+   "Type": "String",
+   "Name": "Norontair--NORONTAI"
+ },
+ {
+   "Code": 3161,
+   "Type": "String",
+   "Name": "All Nippon Airways--ANAAIR"
+ },
+ {
+   "Code": 3159,
+   "Type": "String",
+   "Name": "Provincetown-Boston Airways--PBA"
+ },
+ {
+   "Code": 3399,
+   "Type": "String",
+   "Name": "AMEREX RENT-A-CAR"
+ },
+ {
+   "Code": 7998,
+   "Type": "String",
+   "Name": "AQUARIUMS, SEA-AQUARIUMS, DOLPHINARIUMS"
+ },
+ {
+   "Code": 7513,
+   "Type": "String",
+   "Name": "TRUCK AND UTILITY TRAILER RENTALS"
+ },
+ {
+   "Code": 7997,
+   "Type": "String",
+   "Name": "MEMBERSHIP CLUBS COUNTRY CLUBS & PRIVATE GOLF COURSES"
+ },
+ {
+   "Code": 8602,
+   "Type": "String",
+   "Name": "OTHERS-NOT ELSEWHERE CLASSIFIED"
+ },
+ {
+   "Code": 7999,
+   "Type": "String",
+   "Name": "AMUSEMENT & RECREATION SERVICES"
+ },
+ {
+   "Code": 7519,
+   "Type": "String",
+   "Name": "MOTOR HOME & RECREATIONAL VEHICLE RENTALS"
+ },
+ {
+   "Code": 3170,
+   "Type": "String",
+   "Name": "MOUNT COOK"
+ },
+ {
+   "Code": 5592,
+   "Type": "String",
+   "Name": "MOTOR HOMES DEALERS"
+ },
+ {
+   "Code": 9950,
+   "Type": "String",
+   "Name": "INTRA-COMPANY PURCHASES"
+ },
+ {
+   "Code": 5111,
+   "Type": "String",
+   "Name": "STATIONERY STORES OFFICE & SCHOOL SUPPLY STORES"
+ },
+ {
+   "Code": 7531,
+   "Type": "String",
+   "Name": "AUTOMOTIVE TOP AND BODY REPAIR"
+ },
+ {
+   "Code": 7534,
+   "Type": "String",
+   "Name": "TIRE RETREADING & REPAIR SHOPS"
+ },
+ {
+   "Code": 5598,
+   "Type": "String",
+   "Name": "SNOWMOBILE DEALERS"
+ },
+ {
+   "Code": 3178,
+   "Type": "String",
+   "Name": "Mesa Air--MESA AIR"
+ },
+ {
+   "Code": 3177,
+   "Type": "String",
+   "Name": "AirTran Airways--AIRTRAN A"
+ },
+ {
+   "Code": 3176,
+   "Type": "String",
+   "Name": "METROFLIGHT AIRLINES"
+ },
+ {
+   "Code": 3175,
+   "Type": "String",
+   "Name": "Middle East Air--MIDEASTA"
+ },
+ {
+   "Code": 3174,
+   "Type": "String",
+   "Name": "JetBlue Airways--JETBLUE"
+ },
+ {
+   "Code": 3172,
+   "Type": "String",
+   "Name": "Nation Air--NATIONAI"
+ },
+ {
+   "Code": 3171,
+   "Type": "String",
+   "Name": "Canadian Airlines--CANADIAN"
+ },
+ {
+   "Code": 9704,
+   "Type": "String",
+   "Name": "PYRAMID OR MULTI LEVEL MARKETING DISTRIBUTION COMPANIES"
+ },
+ {
+   "Code": 7524,
+   "Type": "String",
+   "Name": "EXPRESS PAYMENT SERVICE MERCHANTS - PARKING LOTS AND GARAGES"
+ },
+ {
+   "Code": 9705,
+   "Type": "String",
+   "Name": "THIRD PARTY PROCESSORS (AGGREGATORS)"
+ },
+ {
+   "Code": 9702,
+   "Type": "String",
+   "Name": "EMERGENCY SERVICES (GCAS)"
+ },
+ {
+   "Code": 9703,
+   "Type": "String",
+   "Name": "BPR/RURAL BANK"
+ },
+ {
+   "Code": 3181,
+   "Type": "String",
+   "Name": "Malev Hungarian Airlines--MALEV"
+ },
+ {
+   "Code": 3180,
+   "Type": "String",
+   "Name": "Westjet Airlines--WESTJET"
+ },
+ {
+   "Code": 5122,
+   "Type": "String",
+   "Name": "DRUGS DRUG PROPRIETARIES & DRUGGIST SUNDRIES"
+ },
+ {
+   "Code": 6211,
+   "Type": "String",
+   "Name": "SECURITY BROKERS / DEALERS"
+ },
+ {
+   "Code": 7542,
+   "Type": "String",
+   "Name": "CAR WASHES"
+ },
+ {
+   "Code": 3188,
+   "Type": "String",
+   "Name": "Virgin Express--VIR EXP"
+ },
+ {
+   "Code": 3187,
+   "Type": "String",
+   "Name": "LACSA (Costa Rica)--LACSA"
+ },
+ {
+   "Code": 3186,
+   "Type": "String",
+   "Name": "LAP Lineas Aereas Paraguayas--LAP"
+ },
+ {
+   "Code": 3185,
+   "Type": "String",
+   "Name": "LAV Linea Aeropostal Venezolana--LAV"
+ },
+ {
+   "Code": 3184,
+   "Type": "String",
+   "Name": "LIAT--LIAT"
+ },
+ {
+   "Code": 3183,
+   "Type": "String",
+   "Name": "Oman Aviation Services--OMAN AIR"
+ },
+ {
+   "Code": 3182,
+   "Type": "String",
+   "Name": "LOT Polish Airlines--LOT"
+ },
+ {
+   "Code": 5599,
+   "Type": "String",
+   "Name": "MISCELLANEOUS AUTOMOTIVE , AIRCRAFT, & FARM EQUIPMENT DEALERS (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 7778,
+   "Type": "String",
+   "Name": "CITISHARE CASH ADVANCE"
+ },
+ {
+   "Code": 7535,
+   "Type": "String",
+   "Name": "PAINT SHOPS-AUTOMOTIVE"
+ },
+ {
+   "Code": 7538,
+   "Type": "String",
+   "Name": "AUTOMOTIVE SERVICE SHOPS (NON-DEALER)"
+ },
+ {
+   "Code": 3192,
+   "Type": "String",
+   "Name": "Iran Air--IRANAIR"
+ },
+ {
+   "Code": 3191,
+   "Type": "String",
+   "Name": "Island Airlines--ISLANDAI"
+ },
+ {
+   "Code": 8641,
+   "Type": "String",
+   "Name": "CIVIC, SOCIAL, & FRATERNAL ASSOC."
+ },
+ {
+   "Code": 3190,
+   "Type": "String",
+   "Name": "Jugoslav Air--JUGOSLAV"
+ },
+ {
+   "Code": 5131,
+   "Type": "String",
+   "Name": "PIECE GOODS, NOTIONS, AND OTHER DRY GOODS"
+ },
+ {
+   "Code": 7311,
+   "Type": "String",
+   "Name": "ADVERTISING SERVICES"
+ },
+ {
+   "Code": 3199,
+   "Type": "String",
+   "Name": "Servicios Aereos Militares"
+ },
+ {
+   "Code": 3198,
+   "Type": "String",
+   "Name": "Harbor Airlines"
+ },
+ {
+   "Code": 3197,
+   "Type": "String",
+   "Name": "Havasu Airlines--HAVASUAI"
+ },
+ {
+   "Code": 3196,
+   "Type": "String",
+   "Name": "Hawaiian Air--HAWAIIAN"
+ },
+ {
+   "Code": 3195,
+   "Type": "String",
+   "Name": "Holiday Airlines"
+ },
+ {
+   "Code": 3193,
+   "Type": "String",
+   "Name": "Indian Airlines--INDIAN A"
+ },
+ {
+   "Code": 7549,
+   "Type": "String",
+   "Name": "TOWING SERVICES"
+ },
+ {
+   "Code": 8651,
+   "Type": "String",
+   "Name": "POLITICAL ORGANIZATIONS"
+ },
+ {
+   "Code": 7321,
+   "Type": "String",
+   "Name": "CONSUMER CREDIT REPORTING AGENCIES"
+ },
+ {
+   "Code": 7322,
+   "Type": "String",
+   "Name": "DEBT COLLECTION AGENCIES"
+ },
+ {
+   "Code": 5137,
+   "Type": "String",
+   "Name": "MEN'S, WOMEN'S, & CHILDREN'S UNIFORMS, & COMMERCIAL CLOTHING"
+ },
+ {
+   "Code": 5139,
+   "Type": "String",
+   "Name": "COMMERCIAL FOOTWEAR"
+ },
+ {
+   "Code": 9751,
+   "Type": "String",
+   "Name": "U.K. SUPERMARKETS ELECTRONIC HOT FILE"
+ },
+ {
+   "Code": 9752,
+   "Type": "String",
+   "Name": "U.K. PETROL STATIONS, ELECTRONIC HOT FILE"
+ },
+ {
+   "Code": 7332,
+   "Type": "String",
+   "Name": "BLUEPRINTING AND PHOTOCOPYING SERVICES"
+ },
+ {
+   "Code": 8661,
+   "Type": "String",
+   "Name": "RELIGIOUS ORGANIZATIONS"
+ },
+ {
+   "Code": 9997,
+   "Type": "String",
+   "Name": "COVID-19 Hospital"
+ },
+ {
+   "Code": 7333,
+   "Type": "String",
+   "Name": "COMMERCIAL PHOTOGRAPHY ART & GRAPHICS"
+ },
+ {
+   "Code": 9998,
+   "Type": "String",
+   "Name": "Order Online"
+ },
+ {
+   "Code": 5399,
+   "Type": "String",
+   "Name": "MISCELLANEOUS GENERAL MERCHANDISE"
+ },
+ {
+   "Code": 9753,
+   "Type": "String",
+   "Name": "INTRA-COMPANY PURCHASES"
+ },
+ {
+   "Code": 9754,
+   "Type": "String",
+   "Name": "QUASI CASH - GAMBLING - HORSE RACING, DOG RACING, STATE LOTTERIES"
+ },
+ {
+   "Code": 6010,
+   "Type": "String",
+   "Name": "FINANCIAL INSTITUTIONS - MANUAL CASH DISBURSEMENTS"
+ },
+ {
+   "Code": 7341,
+   "Type": "String",
+   "Name": "WINDOW CLEANING SERVICES"
+ },
+ {
+   "Code": 6012,
+   "Type": "String",
+   "Name": "FINANCIAL INSTITUTIONS MERCHANDISE & SERVICES"
+ },
+ {
+   "Code": 6011,
+   "Type": "String",
+   "Name": "FINANCIAL INSTITUTIONS AUTOMATED CASH DISBURSEMENTS"
+ },
+ {
+   "Code": 7342,
+   "Type": "String",
+   "Name": "EXTERMINATING & DISINFECTING SERVICES"
+ },
+ {
+   "Code": 8675,
+   "Type": "String",
+   "Name": "AUTOMOBILE ASSOCIATIONS"
+ },
+ {
+   "Code": 5169,
+   "Type": "String",
+   "Name": "CHEMICALS & ALLIED PRODUCTS (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 7338,
+   "Type": "String",
+   "Name": "QUICK COPY REPRODUCTION & BLUEPRINTING SERVICES"
+ },
+ {
+   "Code": 9999,
+   "Type": "String",
+   "Name": "Top-up Agent"
+ },
+ {
+   "Code": 7339,
+   "Type": "String",
+   "Name": "STENOGRAPHIC & SECRETARIAL SUPPORT"
+ },
+ {
+   "Code": 5172,
+   "Type": "String",
+   "Name": "PETROLEUM & PETROLEUM PRODUCTS"
+ },
+ {
+   "Code": 7349,
+   "Type": "String",
+   "Name": "CLEANING MAINTENANCE & JANITORIAL SERVICES"
+ },
+ {
+   "Code": 8211,
+   "Type": "String",
+   "Name": "ELEMENTARY & SECONDARY SCHOOLS"
+ },
+ {
+   "Code": 8699,
+   "Type": "String",
+   "Name": "MEMBERSHIP ORGANIZATIONS (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 7361,
+   "Type": "String",
+   "Name": "EMPLOYMENT AGENCIES & TEMPORARY HELP SERVICES"
+ },
+ {
+   "Code": 9311,
+   "Type": "String",
+   "Name": "TAX PAYMENTS"
+ },
+ {
+   "Code": 8220,
+   "Type": "String",
+   "Name": "COLLEGES, JUNIOR COLLEGES, UNIVERSITIES, AND PROFESSIONAL SCHOOLS"
+ },
+ {
+   "Code": 5198,
+   "Type": "String",
+   "Name": "PAINT, VARNISHES, & SUPPLIES"
+ },
+ {
+   "Code": 7375,
+   "Type": "String",
+   "Name": "INFORMATION RETRIEVAL SERVICES"
+ },
+ {
+   "Code": 5199,
+   "Type": "String",
+   "Name": "NONDURABLE GOODS (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 7379,
+   "Type": "String",
+   "Name": "COMPUTER MAINTENANCE, REPAIR, & SERVICES (NOT ELSEWHERE CLASSFIED)"
+ },
+ {
+   "Code": 5192,
+   "Type": "String",
+   "Name": "BOOKS, PERIODICALS, & NEWSPAPERS"
+ },
+ {
+   "Code": 5193,
+   "Type": "String",
+   "Name": "FLORIST SUPPLIES, NURSERY STOCK, & FLOWERS"
+ },
+ {
+   "Code": 7372,
+   "Type": "String",
+   "Name": "COMPUTER PROGRAMMING DATA PROCESSING & INTEGRATED SYSTEMS DESIGN SERVICES"
+ },
+ {
+   "Code": 6050,
+   "Type": "String",
+   "Name": "QUASI CASH - MEMBER FINANCIAL INSTITUTION"
+ },
+ {
+   "Code": 6051,
+   "Type": "String",
+   "Name": "NON-FINANCIAL INSTITUTIONS-FOREIGN CURRENCY, MONEY ORDERS (NOT WIRE TRANSFER) AND TRAVELERS CHEQUE"
+ },
+ {
+   "Code": 8244,
+   "Type": "String",
+   "Name": "BUSINESS & SECRETARIAL SCHOOLS"
+ },
+ {
+   "Code": 7395,
+   "Type": "String",
+   "Name": "PHOTOFINISHING LABORATORIES & PHOTO DEVELOPING"
+ },
+ {
+   "Code": 7399,
+   "Type": "String",
+   "Name": "BUSINESS SERVICES (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 8249,
+   "Type": "String",
+   "Name": "VOCATIONAL & TRADE SCHOOLS"
+ },
+ {
+   "Code": 7392,
+   "Type": "String",
+   "Name": "MANAGEMENT, CONSULTING, & PUBLIC RELATIONS SERVICES"
+ },
+ {
+   "Code": 8241,
+   "Type": "String",
+   "Name": "CORRESPONDENCE SCHOOLS"
+ },
+ {
+   "Code": 7394,
+   "Type": "String",
+   "Name": "EQUIPMENT, TOOL, FURNITURE, & APPLIANCE RENTAL AND LEASING"
+ },
+ {
+   "Code": 7393,
+   "Type": "String",
+   "Name": "PROTECTIVE AND SECURITY SERVICES - INCLUDING ARMORED CARS AND GUARD DOGS"
+ },
+ {
+   "Code": 8011,
+   "Type": "String",
+   "Name": "DOCTORS & PHYSICIANS (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 8021,
+   "Type": "String",
+   "Name": "DENTISTS & ORTHODONTISTS"
+ },
+ {
+   "Code": 3803,
+   "Type": "String",
+   "Name": "THE WIGMAM GOLF RESORT AND SPA"
+ },
+ {
+   "Code": 3804,
+   "Type": "String",
+   "Name": "THE DIPLOMAT COUNTRY CLUB SPA"
+ },
+ {
+   "Code": 3805,
+   "Type": "String",
+   "Name": "THE ATLANTIC"
+ },
+ {
+   "Code": 3806,
+   "Type": "String",
+   "Name": "PRINCEVILLE RESORT"
+ },
+ {
+   "Code": 3807,
+   "Type": "String",
+   "Name": "ELEMENT"
+ },
+ {
+   "Code": 3808,
+   "Type": "String",
+   "Name": "LXR (Luxury Resorts)"
+ },
+ {
+   "Code": 3809,
+   "Type": "String",
+   "Name": "SETTLE INN"
+ },
+ {
+   "Code": 3800,
+   "Type": "String",
+   "Name": "HOMESTEAD SUITES"
+ },
+ {
+   "Code": 3801,
+   "Type": "String",
+   "Name": "WILDERNESS HOTEL AND RESORT"
+ },
+ {
+   "Code": 3802,
+   "Type": "String",
+   "Name": "THE PALACE HOTEL"
+ },
+ {
+   "Code": 8031,
+   "Type": "String",
+   "Name": "OSTEOPATHS"
+ },
+ {
+   "Code": 3814,
+   "Type": "String",
+   "Name": "THE ROOSEVELT HOTEL NY"
+ },
+ {
+   "Code": 3815,
+   "Type": "String",
+   "Name": "NICKELODEON FAMILY SUITES BY HOLIDAY INN"
+ },
+ {
+   "Code": 3817,
+   "Type": "String",
+   "Name": "AFFINIA"
+ },
+ {
+   "Code": 3818,
+   "Type": "String",
+   "Name": "MAINSTAY SUITES"
+ },
+ {
+   "Code": 3819,
+   "Type": "String",
+   "Name": "OXFORD SUITES"
+ },
+ {
+   "Code": 3810,
+   "Type": "String",
+   "Name": "LA COSTA RESORT"
+ },
+ {
+   "Code": 3811,
+   "Type": "String",
+   "Name": "PREMIER INN"
+ },
+ {
+   "Code": 4900,
+   "Type": "String",
+   "Name": "UTILITIES-ELECTRIC, GAS, WATER, SANITARY"
+ },
+ {
+   "Code": 3812,
+   "Type": "String",
+   "Name": "HYATT PLACE"
+ },
+ {
+   "Code": 3813,
+   "Type": "String",
+   "Name": "HOTEL INDIGO"
+ },
+ {
+   "Code": 8044,
+   "Type": "String",
+   "Name": "OPTICAL GOODS AND EYEGLASSES"
+ },
+ {
+   "Code": 8049,
+   "Type": "String",
+   "Name": "CHIROPODISTS, PODIATRISTS"
+ },
+ {
+   "Code": 8042,
+   "Type": "String",
+   "Name": "OPTOMETRISTS & OPHTHALMOLOGISTS"
+ },
+ {
+   "Code": 8043,
+   "Type": "String",
+   "Name": "OPTICIANS OPTICAL GOODS & EYEGLASSES"
+ },
+ {
+   "Code": 8041,
+   "Type": "String",
+   "Name": "CHIROPRACTORS"
+ },
+ {
+   "Code": 3825,
+   "Type": "String",
+   "Name": "VDARA"
+ },
+ {
+   "Code": 3826,
+   "Type": "String",
+   "Name": "AUTOGRAPH"
+ },
+ {
+   "Code": 3827,
+   "Type": "String",
+   "Name": "GALT HOUSE"
+ },
+ {
+   "Code": 3828,
+   "Type": "String",
+   "Name": "COSMOPOLITAN OF LAS VEGAS"
+ },
+ {
+   "Code": 3820,
+   "Type": "String",
+   "Name": "JUMEIRAH ESSEX HOUSE"
+ },
+ {
+   "Code": 3821,
+   "Type": "String",
+   "Name": "CARIBE ROYALE"
+ },
+ {
+   "Code": 3822,
+   "Type": "String",
+   "Name": "CROSSLAND"
+ },
+ {
+   "Code": 3823,
+   "Type": "String",
+   "Name": "GRAND SIERRA RESORT"
+ },
+ {
+   "Code": 3824,
+   "Type": "String",
+   "Name": "ARIA"
+ },
+ {
+   "Code": 8299,
+   "Type": "String",
+   "Name": "SCHOOLS & EDUCATIONAL SERVICES (NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 8050,
+   "Type": "String",
+   "Name": "NURSING & PERSONAL CARE FACILITIES"
+ },
+ {
+   "Code": 2741,
+   "Type": "String",
+   "Name": "MISCELLANEOUS PUBLISHING & PRINTING"
+ },
+ {
+   "Code": 9399,
+   "Type": "String",
+   "Name": "GOVERNMENT SERVICES ( NOT ELSEWHERE CLASSIFIED)"
+ },
+ {
+   "Code": 8062,
+   "Type": "String",
+   "Name": "HOSPITALS"
+ },
+ {
+   "Code": 3604,
+   "Type": "String",
+   "Name": "HILTON GARDEN INN"
+ },
+ {
+   "Code": 3603,
+   "Type": "String",
+   "Name": "NOAH’S HOTELS"
+ },
+ {
+   "Code": 3602,
+   "Type": "String",
+   "Name": "HUDSON HOTEL"
+ },
+ {
+   "Code": 3601,
+   "Type": "String",
+   "Name": "TRADEWINDS RESORTS"
+ },
+ {
+   "Code": 3600,
+   "Type": "String",
+   "Name": "SADDLEBROOK RESORT TAMPA"
+ },
+ {
+   "Code": 3609,
+   "Type": "String",
+   "Name": "GAYLORD PALMS"
+ },
+ {
+   "Code": 3608,
+   "Type": "String",
+   "Name": "GAYLORD OPRYLAND"
+ },
+ {
+   "Code": 3607,
+   "Type": "String",
+   "Name": "FONTAINEBLEAU RESORTS"
+ },
+ {
+   "Code": 3606,
+   "Type": "String",
+   "Name": "JEFFERSON HOTEL"
+ },
+ {
+   "Code": 3605,
+   "Type": "String",
+   "Name": "JURYS DOYLE HOTEL GROUP"
+ },
+ {
+   "Code": 8071,
+   "Type": "String",
+   "Name": "MEDICAL & DENTAL LABORATORIES"
+ },
+ {
+   "Code": 3615,
+   "Type": "String",
+   "Name": "TRAVELODGE"
+ },
+ {
+   "Code": 3614,
+   "Type": "String",
+   "Name": "AMERICINN"
+ },
+ {
+   "Code": 3613,
+   "Type": "String",
+   "Name": "MICROTEL INNS & SUITES"
+ },
+ {
+   "Code": 3612,
+   "Type": "String",
+   "Name": "MOEVENPICK HOTELS"
+ },
+ {
+   "Code": 3611,
+   "Type": "String",
+   "Name": "C MON INN"
+ },
+ {
+   "Code": 3610,
+   "Type": "String",
+   "Name": "GAYLORD TEXAN"
+ },
+ {
+   "Code": 3619,
+   "Type": "String",
+   "Name": "ALOFT"
+ },
+ {
+   "Code": 3618,
+   "Type": "String",
+   "Name": "GREAT WOLF"
+ },
+ {
+   "Code": 3617,
+   "Type": "String",
+   "Name": "AMERICA’S BEST VALUE INN"
+ },
+ {
+   "Code": 3616,
+   "Type": "String",
+   "Name": "HERMITAGE HOTELS"
+ },
+ {
+   "Code": 3626,
+   "Type": "String",
+   "Name": "STUDIO PLUS"
+ },
+ {
+   "Code": 3625,
+   "Type": "String",
+   "Name": "HOTEL UNIVERSALE"
+ },
+ {
+   "Code": 3624,
+   "Type": "String",
+   "Name": "LADY LUCK HOTEL AND CASINO"
+ },
+ {
+   "Code": 3623,
+   "Type": "String",
+   "Name": "DORINT HOTELS"
+ },
+ {
+   "Code": 3622,
+   "Type": "String",
+   "Name": "MERLIN HOTELS"
+ },
+ {
+   "Code": 3621,
+   "Type": "String",
+   "Name": "EXTENDED STAY"
+ },
+ {
+   "Code": 3620,
+   "Type": "String",
+   "Name": "BINION’S HORSESHOE CLUB"
+ },
+ {
+   "Code": 3629,
+   "Type": "String",
+   "Name": "DAN HOTELS"
+ },
+ {
+   "Code": 3628,
+   "Type": "String",
+   "Name": "EXCALIBUR HOTEL AND CASINO"
+ },
+ {
+   "Code": 3627,
+   "Type": "String",
+   "Name": "EXTENDED STAY AMERICA"
+ }
+]
